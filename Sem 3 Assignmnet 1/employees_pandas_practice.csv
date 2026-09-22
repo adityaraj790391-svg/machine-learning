@@ -1,0 +1,101 @@
+Employee_ID,Name,Age,Gender,Department,Job_Role,Salary,Experience_Years,City,Joining_Date,Performance_Score,Bonus,Education
+1,Aditya Sharma,38,Male,Marketing,Marketing Executive,114000,16,Chandigarh,2022-08-19,8,,B.Tech
+2,Tanya Patel,55,Female,Marketing,Marketing Manager,128000,25,Mumbai,2023-11-03,8,12800,M.Tech
+3,Akash Joshi,27,Female,Operations,Operations Manager,70000,4,Noida,2017-05-30,8,3500,MCA
+4,Varun Patel,25,Male,Marketing,Marketing Manager,59000,3,Chandigarh,2020-04-09,8,7080,BBA
+5,Ishaan Gupta,31,Male,Finance,Finance Manager,106000,14,,2018-06-22,8,5300,B.Com
+6,Arjun Patel,57,Female,Marketing,Marketing Manager,143000,25,Mumbai,2018-12-24,7,11440,M.Sc
+7,Vikas Joshi,44,Male,Finance,Finance Manager,127000,22,Chandigarh,2017-09-22,7,15240,B.Sc
+8,Shreya Malhotra,56,Male,HR,HR Manager,124000,25,Hyderabad,2020-11-19,7,,PhD
+9,Diya Khanna,27,Female,Marketing,Marketing Executive,77000,9,Noida,2024-09-28,9,3850,MCA
+10,Karan Mehta,24,Male,HR,HR Executive,63000,8,Noida,2024-08-06,7,5040,PhD
+11,Yash Sethi,34,Male,Sales,Sales Manager,109000,16,Noida,2021-01-27,6,8720,BBA
+12,Vikas Mehta,21,Male,IT,Software Engineer,54000,0,Pune,2016-10-21,9,4320,B.Sc
+13,Harsh Ahuja,47,Male,HR,HR Executive,132000,25,Jaipur,2020-08-14,9,6600,M.Sc
+14,Kritika Singh,36,Male,Marketing,Marketing Manager,107000,15,Mumbai,2019-02-18,9,8560,PhD
+15,Anika Verma,55,Male,HR,HR Executive,133000,25,Kolkata,2021-05-29,,15960,M.Sc
+16,Isha Arora,39,Female,Customer Support,Support Specialist,103000,19,Bengaluru,2016-08-31,10,15450,B.Sc
+17,Sameer Khanna,31,Male,HR,HR Executive,83000,9,Chandigarh,2023-08-01,7,9960,B.Tech
+18,Zoya Gupta,47,Female,Sales,Sales Executive,134000,25,Hyderabad,2020-06-13,7,13400,B.Tech
+19,Riya Saxena,57,Male,HR,HR Executive,124000,25,Pune,2025-11-21,6,9920,B.Com
+20,Zoya Khanna,21,Female,HR,HR Executive,43000,2,Chandigarh,2024-05-02,9,3440,BBA
+21,Isha Khanna,52,Female,IT,Software Engineer,149000,25,Delhi,2016-01-19,8,11920,PhD
+22,Pooja Mishra,21,Male,HR,HR Executive,45000,0,Gurugram,2022-03-17,7,5400,B.Tech
+23,Manish Patel,36,Male,Operations,Operations Manager,101000,15,Mumbai,2024-12-24,7,,M.Sc
+24,Harsh Malhotra,31,Male,Data Science,Data Scientist,125000,15,Bengaluru,2025-03-02,9,12500,B.Tech
+25,Esha Joshi,42,Female,HR,HR Manager,133000,24,Jaipur,2023-08-19,9,13300,MBA
+26,Vikas Malhotra,23,Male,Data Science,Senior Data Scientist,97000,5,Gurugram,2021-09-29,6,11640,M.Sc
+27,Aarav Khanna,55,Male,Operations,Operations Manager,139000,25,Gurugram,2019-07-13,6,13900,B.Com
+28,Tanya Kumar,33,Female,Data Science,Data Scientist,128000,14,Noida,2025-05-11,5,12800,MCA
+29,Riya Arora,49,Male,Customer Support,Support Specialist,123000,25,Noida,2023-06-16,10,12300,B.Com
+30,Gaurav Patel,30,Male,IT,Software Engineer,122000,14,Chandigarh,2021-02-12,8,18300,BBA
+31,Chetan Sharma,27,Female,Marketing,Marketing Executive,81000,11,Noida,2018-10-21,6,9720,PhD
+32,Yash Bansal,49,Female,Customer Support,Support Specialist,129000,25,Hyderabad,2024-06-10,7,12900,B.Com
+33,Rahul Gupta,39,Male,Sales,Sales Manager,130000,21,Chandigarh,2017-07-24,7,10400,M.Sc
+34,Pankaj Bansal,55,Female,Data Science,Data Scientist,167000,25,Jaipur,2026-02-27,10,8350,B.Tech
+35,Manish Kapoor,45,Female,Marketing,Marketing Manager,137000,25,Jaipur,2021-06-16,5,16440,MBA
+36,Riya Kumar,55,Male,Data Science,Data Scientist,167000,25,Mumbai,2025-09-24,9,,MCA
+37,Kritika Joshi,38,Female,Sales,Sales Executive,116000,22,Noida,2016-08-05,8,9280,B.Tech
+38,Harsh Patel,22,Male,Marketing,Marketing Executive,65000,6,Gurugram,2026-08-22,7,7800,M.Tech
+39,Deepak Kapoor,27,Male,Sales,Sales Manager,80000,10,Chandigarh,2022-08-26,7,4000,M.Tech
+40,Varun Verma,43,Female,Operations,Operations Analyst,128000,25,Jaipur,2025-03-26,9,6400,B.Sc
+41,Chetan Sethi,32,Female,Customer Support,Support Manager,98000,15,Hyderabad,2019-08-17,7,4900,M.Sc
+42,Kritika Sharma,52,Female,Finance,Finance Manager,148000,25,Hyderabad,2019-10-30,,22200,BBA
+43,Akash Mehta,47,Female,Marketing,Marketing Manager,143000,25,Delhi,2017-01-20,8,11440,MCA
+44,Rohan Mishra,54,Female,Data Science,Senior Data Scientist,168000,25,Hyderabad,2019-06-13,8,13440,PhD
+45,Diya Patel,34,Female,Sales,Sales Manager,87000,12,Hyderabad,2018-07-24,8,6960,B.Tech
+46,Ananya Mishra,39,Male,Customer Support,Support Specialist,101000,16,Hyderabad,2021-04-10,9,12120,B.Sc
+47,Aditya Gupta,46,Female,HR,HR Executive,125000,25,Gurugram,2026-08-27,8,6250,BBA
+48,Shreya Joshi,49,Female,Sales,Sales Manager,145000,25,Gurugram,2016-09-07,10,7250,M.Tech
+49,Deepak Mehta,32,Male,Finance,Finance Manager,116000,15,Gurugram,2021-04-12,8,5800,B.Sc
+50,Arjun Mehta,37,Male,Data Science,Data Scientist,130000,17,Hyderabad,2025-04-12,7,,B.Com
+51,Rahul Singh,50,Female,Data Science,Senior Data Scientist,167000,25,Chandigarh,2022-09-19,,20040,BBA
+52,Varun Rana,22,Female,IT,Software Engineer,91000,6,Kolkata,2026-04-14,8,7280,M.Tech
+53,Rohan Chopra,47,Female,Operations,Operations Analyst,139000,25,Jaipur,2023-10-16,9,13900,B.Tech
+54,Riya Gupta,41,Female,Operations,Operations Analyst,141000,24,Delhi,2023-05-21,9,16920,B.Sc
+55,Rahul Verma,34,Female,Finance,Finance Manager,127000,18,Chandigarh,2016-05-02,,10160,M.Sc
+56,Akash Mehta,28,Female,HR,HR Executive,84000,12,Noida,2023-12-03,8,10080,PhD
+57,Chetan Joshi,33,Male,HR,HR Manager,100000,16,Noida,2019-01-03,5,10000,B.Sc
+58,Chetan Arora,55,Female,Operations,Operations Manager,143000,25,Pune,2025-10-05,7,11440,B.Tech
+59,Kavya Ahuja,45,Female,Finance,Finance Manager,130000,22,Noida,2022-08-18,8,6500,B.Sc
+60,Aarav Kumar,47,Male,HR,HR Manager,131000,25,Gurugram,2023-10-12,8,6550,M.Sc
+61,Kavya Ahuja,55,Male,HR,HR Executive,127000,25,Chandigarh,2020-11-16,6,6350,B.Tech
+62,Kavya Verma,39,Female,Operations,Operations Manager,112000,18,Noida,2020-08-18,10,8960,BBA
+63,Sakshi Rana,30,Male,Customer Support,Support Manager,84000,14,Delhi,2026-02-02,9,8400,MCA
+64,Vikas Kapoor,48,Female,Customer Support,Support Manager,127000,25,Kolkata,2017-03-16,7,15240,B.Com
+65,Aditi Joshi,38,Male,IT,Senior Software Engineer,127000,19,Gurugram,2025-01-01,8,10160,MBA
+66,Anika Verma,40,Female,IT,Senior Software Engineer,122000,19,Hyderabad,2019-09-04,8,9760,MCA
+67,Shreya Khanna,38,Male,Sales,Sales Manager,116000,19,Chandigarh,2021-04-06,6,9280,M.Sc
+68,Tanya Chopra,26,Female,IT,Senior Software Engineer,81000,4,Pune,2023-07-22,8,12150,BBA
+69,Rohan Sharma,56,Female,Marketing,Marketing Executive,138000,25,Jaipur,2017-04-26,7,6900,M.Tech
+70,Harsh Mishra,29,Female,Customer Support,Support Manager,88000,12,Mumbai,2025-12-09,8,4400,B.Com
+71,Abhinav Chopra,34,Female,Customer Support,Support Specialist,86000,16,Pune,2022-02-12,8,4300,B.Sc
+72,Akash Patel,22,Male,Operations,Operations Analyst,63000,1,Bengaluru,2016-10-12,9,5040,MBA
+73,Yash Sharma,38,Male,Finance,Finance Manager,112000,17,Delhi,2017-06-27,5,11200,MBA
+74,Isha Verma,29,Female,HR,HR Executive,93000,13,Pune,2021-10-07,10,4650,PhD
+75,Karan Arora,22,Male,Customer Support,Support Manager,48000,5,Kolkata,2023-12-31,9,2400,MBA
+76,Ishaan Saxena,58,Female,Data Science,Senior Data Scientist,170000,25,Gurugram,2020-11-01,6,8500,BBA
+77,Pooja Arora,35,Female,Operations,Operations Manager,117000,18,Chandigarh,2019-07-08,8,11700,B.Sc
+78,Arjun Gupta,26,Male,Data Science,Data Scientist,98000,8,Noida,2016-09-06,10,14700,M.Sc
+79,Ananya Kapoor,40,Female,HR,HR Executive,115000,19,Bengaluru,2025-07-06,6,11500,BBA
+80,Pooja Mishra,56,Male,Sales,Sales Executive,135000,25,Hyderabad,2026-05-06,8,,M.Sc
+81,Arjun Kumar,22,Male,Marketing,Marketing Manager,73000,5,Pune,2017-10-10,8,7300,M.Tech
+82,Ananya Kumar,31,Male,HR,HR Manager,99000,15,Kolkata,2022-10-26,9,11880,M.Sc
+83,Aditya Kapoor,58,Female,Sales,Sales Executive,139000,25,Gurugram,2016-08-16,5,11120,B.Com
+84,Jatin Bansal,28,Male,Customer Support,Support Manager,55000,7,Jaipur,2021-12-25,7,8250,M.Sc
+85,Abhinav Sethi,22,Female,HR,HR Manager,69000,5,,2023-12-20,8,6900,B.Sc
+86,Meera Gupta,48,Male,Marketing,Marketing Manager,145000,25,Chandigarh,2020-06-13,8,14500,M.Tech
+87,Shreya Khanna,33,Female,Operations,Operations Analyst,89000,13,Mumbai,2018-11-18,7,7120,MBA
+88,Sakshi Arora,57,Female,Operations,Operations Manager,142000,25,Chandigarh,2021-04-08,9,14200,M.Tech
+89,Karan Arora,49,Male,IT,Senior Software Engineer,143000,25,Chandigarh,2022-11-28,10,21450,B.Tech
+90,Rahul Rana,33,Female,Customer Support,Support Specialist,76000,10,Chandigarh,2025-02-07,8,3800,B.Sc
+91,Rahul Khanna,54,Male,Operations,Operations Manager,141000,25,Jaipur,2024-09-11,8,,MCA
+92,Anika Mishra,45,Female,Sales,Sales Executive,129000,25,Gurugram,2023-06-15,7,12900,MBA
+93,Yash Gupta,40,Female,Operations,Operations Analyst,117000,18,Noida,2020-01-26,5,11700,B.Sc
+94,Esha Mehta,29,Male,HR,HR Manager,74000,7,Noida,2025-05-17,9,3700,M.Sc
+95,Chetan Yadav,32,Male,Customer Support,Support Specialist,91000,15,Bengaluru,2020-12-28,10,9100,BBA
+96,Karan Ahuja,33,Female,Customer Support,Support Manager,88000,14,Noida,2021-12-04,8,7040,B.Com
+97,Ananya Ahuja,44,Male,HR,HR Manager,115000,22,Hyderabad,2021-01-18,9,9200,B.Sc
+98,Manish Sharma,47,Male,Data Science,Senior Data Scientist,166000,25,Chandigarh,2020-03-19,7,8300,MCA
+99,Chetan Kumar,23,Female,Customer Support,Support Specialist,66000,7,Gurugram,2016-01-26,6,3300,PhD
+100,Pooja Singh,39,Male,Sales,Sales Executive,102000,16,Jaipur,2023-03-06,10,12240,PhD

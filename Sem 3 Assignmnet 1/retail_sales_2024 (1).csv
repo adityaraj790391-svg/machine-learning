@@ -1,0 +1,1001 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount,revenue,profit,customer_age,customer_gender,payment_method,delivery_days,rating
+ORD1001,2024-01-01,West,Clothing,Jeans,4,1730.0,0.0,6920.0,2636.14,45,Male,Debit Card,3,3.0
+ORD1002,2024-01-01,South,Sports,Dumbbell Set,1,2360.0,0.0,2360.0,690.43,39,Female,Credit Card,2,4.0
+ORD1003,2024-01-02,East,Clothing,T-Shirt,2,680.0,0.0,1360.0,456.07,31,Male,Credit Card,5,4.0
+ORD1004,2024-01-02,East,Clothing,Sneakers,3,2760.0,0.3,5796.0,887.3,24,Female,Credit Card,4,5.0
+ORD1005,2024-01-03,South,Clothing,Sneakers,2,2810.0,0.05,5339.0,1531.46,54,Female,UPI,2,3.0
+ORD1006,2024-01-03,Central,Home & Kitchen,Air Fryer,1,6340.0,0.1,5706.0,988.63,39,Female,UPI,7,4.0
+ORD1007,2024-01-03,West,Clothing,Jacket,2,3630.0,0.05,6897.0,2170.7,18,Male,Debit Card,3,4.0
+ORD1008,2024-01-04,Central,Books,Comic,2,260.0,0.1,468.0,121.04,35,Female,UPI,4,3.0
+ORD1009,2024-01-04,North,Electronics,Smartphone,1,22810.0,0.15,19388.5,-347.5,18,Female,Debit Card,5,2.0
+ORD1010,2024-01-05,East,Electronics,Laptop,1,54860.0,0.3,38402.0,-3192.18,41,Female,UPI,5,3.0
+ORD1011,2024-01-06,North,Electronics,Laptop,2,54800.0,0.0,109600.0,9194.56,40,Female,Cash on Delivery,3,4.0
+ORD1012,2024-01-06,South,Books,Comic,4,250.0,0.15,850.0,147.67,34,Female,UPI,2,3.0
+ORD1013,2024-01-06,North,Electronics,Smartwatch,2,7570.0,0.1,13626.0,847.64,24,Female,Debit Card,2,3.0
+ORD1014,2024-01-07,East,Electronics,Smartphone,1,23940.0,0.1,21546.0,639.27,35,Female,Debit Card,6,3.0
+ORD1015,2024-01-07,North,Electronics,Headphones,2,3000.0,0.05,5700.0,473.53,41,Male,Debit Card,6,3.0
+ORD1016,2024-01-08,East,Electronics,Smartwatch,2,7520.0,0.05,14288.0,1154.89,18,Male,Debit Card,5,4.0
+ORD1017,2024-01-08,West,Books,Comic,5,240.0,0.0,1200.0,365.08,36,Male,Debit Card,3,3.0
+ORD1018,2024-01-08,West,Clothing,T-Shirt,2,750.0,0.15,1275.0,390.56,37,Male,UPI,6,3.0
+ORD1019,2024-01-08,North,Electronics,Smartphone,1,24670.0,0.05,23436.5,1472.06,39,Male,Credit Card,4,4.0
+ORD1020,2024-01-09,North,Home & Kitchen,Cookware Set,2,2530.0,0.1,4554.0,694.32,30,Female,UPI,3,4.0
+ORD1021,2024-01-10,West,Clothing,Jacket,3,3510.0,0.2,8424.0,1822.85,28,Female,Credit Card,5,3.0
+ORD1022,2024-01-10,East,Sports,Dumbbell Set,1,2420.0,0.1,2178.0,506.18,35,Male,UPI,6,4.0
+ORD1023,2024-01-11,West,Clothing,Sneakers,5,2910.0,0.0,14550.0,5289.46,27,Male,UPI,6,3.0
+ORD1024,2024-01-11,East,Sports,Cricket Bat,1,2300.0,0.0,2300.0,643.44,44,Female,UPI,7,5.0
+ORD1025,2024-01-11,West,Clothing,Sneakers,2,2720.0,0.15,4624.0,1255.08,30,Male,Credit Card,3,4.0
+ORD1026,2024-01-12,South,Clothing,Jeans,1,1770.0,0.0,1770.0,621.5,52,Female,UPI,2,5.0
+ORD1027,2024-01-12,West,Electronics,Smartphone,2,25490.0,0.0,50980.0,7572.31,32,Male,Debit Card,5,4.0
+ORD1028,2024-01-13,North,Electronics,Smartphone,2,23530.0,0.0,47060.0,5513.35,21,Female,Cash on Delivery,2,5.0
+ORD1029,2024-01-14,West,Electronics,Headphones,2,3010.0,0.2,4816.0,28.48,46,Male,Credit Card,5,3.0
+ORD1030,2024-01-14,West,Sports,Dumbbell Set,1,2590.0,0.1,2331.0,501.86,45,Male,Cash on Delivery,4,3.0
+ORD1031,2024-01-14,East,Sports,Dumbbell Set,1,2610.0,0.2,2088.0,349.83,18,Female,UPI,5,4.0
+ORD1032,2024-01-14,Central,Books,Textbook,5,860.0,0.05,4085.0,1053.8,33,Female,UPI,7,5.0
+ORD1033,2024-01-14,South,Electronics,Laptop,2,52740.0,0.15,89658.0,2740.37,24,Female,Cash on Delivery,3,4.0
+ORD1034,2024-01-16,South,Books,Cookbook,4,580.0,0.15,1972.0,408.95,31,Male,UPI,4,4.0
+ORD1035,2024-01-16,South,Clothing,Sneakers,1,2970.0,0.1,2673.0,745.83,21,Male,UPI,4,4.0
+ORD1036,2024-01-16,Central,Home & Kitchen,Air Fryer,1,5820.0,0.0,5820.0,990.22,36,Female,Debit Card,4,4.0
+ORD1037,2024-01-17,East,Electronics,Laptop,2,52070.0,0.0,104140.0,15369.23,27,Female,UPI,7,4.0
+ORD1038,2024-01-17,East,Home & Kitchen,Air Fryer,2,5700.0,0.1,10260.0,2282.57,27,Male,Debit Card,6,4.0
+ORD1039,2024-01-18,West,Electronics,Headphones,2,3040.0,0.05,5776.0,586.45,23,Female,UPI,3,4.0
+ORD1040,2024-01-19,West,Electronics,Smartwatch,2,8000.0,0.05,15200.0,1164.16,32,Female,UPI,4,4.0
+ORD1041,2024-01-19,South,Clothing,Sneakers,5,3050.0,0.1,13725.0,3968.59,42,Male,Debit Card,5,3.0
+ORD1042,2024-01-19,East,Electronics,Smartphone,2,25690.0,0.05,48811.0,5619.88,37,Male,UPI,6,4.0
+ORD1043,2024-01-19,South,Books,Cookbook,1,620.0,0.0,620.0,166.01,39,Female,UPI,4,3.0
+ORD1044,2024-01-20,West,Books,Textbook,2,880.0,0.15,1496.0,303.65,19,Female,Debit Card,2,4.0
+ORD1045,2024-01-20,Central,Clothing,Jeans,2,1730.0,0.0,3460.0,1102.64,24,Female,UPI,5,3.0
+ORD1046,2024-01-20,West,Clothing,Jacket,5,3670.0,0.1,16515.0,4582.7,33,Female,UPI,4,4.0
+ORD1047,2024-01-20,South,Books,Comic,2,260.0,0.05,494.0,139.62,35,Female,UPI,4,4.0
+ORD1048,2024-01-20,West,Clothing,Jeans,1,1840.0,0.2,1472.0,335.46,20,Female,Credit Card,2,5.0
+ORD1049,2024-01-21,North,Electronics,Laptop,2,57250.0,0.15,97325.0,4427.55,18,Female,Credit Card,3,4.0
+ORD1050,2024-01-22,South,Home & Kitchen,Bedsheet Set,1,1510.0,0.05,1434.5,374.58,34,Male,Cash on Delivery,4,4.0
+ORD1051,2024-01-22,South,Clothing,Jacket,3,3740.0,0.1,10098.0,2425.24,18,Female,UPI,3,3.0
+ORD1052,2024-01-22,Central,Clothing,Sneakers,4,2820.0,0.3,7896.0,1509.8,18,Female,UPI,5,4.0
+ORD1053,2024-01-22,West,Sports,Yoga Mat,1,790.0,0.05,750.5,164.11,19,Male,Credit Card,4,5.0
+ORD1054,2024-01-22,Central,Sports,Dumbbell Set,1,2540.0,0.1,2286.0,514.3,41,Female,UPI,4,4.0
+ORD1055,2024-01-23,East,Sports,Cricket Bat,1,1960.0,0.05,1862.0,479.59,37,Male,UPI,5,3.0
+ORD1056,2024-01-23,West,Home & Kitchen,Bedsheet Set,1,1490.0,0.05,1415.5,329.37,38,Male,Credit Card,5,4.0
+ORD1057,2024-01-23,South,Electronics,Headphones,1,3020.0,0.0,3020.0,392.33,19,Male,Cash on Delivery,6,4.0
+ORD1058,2024-01-23,Central,Clothing,Jeans,4,1840.0,0.05,6992.0,1867.82,30,Male,UPI,3,3.0
+ORD1059,2024-01-24,North,Home & Kitchen,Cookware Set,1,2430.0,0.15,2065.5,301.85,23,Female,Debit Card,6,3.0
+ORD1060,2024-01-24,North,Clothing,Sneakers,3,2920.0,0.05,8322.0,2617.8,32,Male,Credit Card,5,3.0
+ORD1061,2024-01-25,South,Sports,Football,2,900.0,0.1,1620.0,291.47,27,Male,Net Banking,3,5.0
+ORD1062,2024-01-25,South,Home & Kitchen,Mixer Grinder,2,3220.0,0.05,6118.0,1485.41,39,Male,Credit Card,3,3.0
+ORD1063,2024-01-26,Central,Books,Cookbook,3,600.0,0.1,1620.0,370.56,18,Female,UPI,5,4.0
+ORD1064,2024-01-26,South,Electronics,Headphones,1,3010.0,0.05,2859.5,137.13,27,Female,UPI,3,4.0
+ORD1065,2024-01-26,South,Sports,Dumbbell Set,1,2480.0,0.2,1984.0,382.49,33,Male,Cash on Delivery,4,3.0
+ORD1066,2024-01-27,South,Sports,Football,2,860.0,0.0,1720.0,479.27,27,Male,Credit Card,2,4.0
+ORD1067,2024-01-28,South,Books,Novel,4,330.0,0.0,1320.0,380.54,31,Male,Net Banking,3,4.0
+ORD1068,2024-01-29,North,Sports,Football,1,900.0,0.2,720.0,92.6,44,Male,Debit Card,3,4.0
+ORD1069,2024-01-30,Central,Home & Kitchen,Cookware Set,2,2520.0,0.2,4032.0,392.4,29,Female,Cash on Delivery,4,3.0
+ORD1070,2024-01-30,South,Books,Textbook,2,900.0,0.0,1800.0,648.99,18,Female,UPI,4,4.0
+ORD1071,2024-02-01,North,Home & Kitchen,Mixer Grinder,2,3230.0,0.0,6460.0,1838.37,36,Female,UPI,4,4.0
+ORD1072,2024-02-01,South,Electronics,Smartphone,1,25530.0,0.0,25530.0,2959.28,26,Male,Debit Card,1,4.0
+ORD1073,2024-02-04,South,Books,Cookbook,2,660.0,0.1,1188.0,307.59,38,Female,Credit Card,2,4.0
+ORD1074,2024-02-04,East,Home & Kitchen,Air Fryer,2,5720.0,0.05,10868.0,2460.07,30,Male,Credit Card,4,4.0
+ORD1075,2024-02-06,East,Sports,Cricket Bat,1,2230.0,0.15,1895.5,458.81,30,Male,Credit Card,7,3.0
+ORD1076,2024-02-06,North,Sports,Dumbbell Set,2,2300.0,0.05,4370.0,1229.61,18,Male,UPI,4,5.0
+ORD1077,2024-02-06,South,Books,Cookbook,1,560.0,0.2,448.0,73.11,35,Female,Credit Card,3,5.0
+ORD1078,2024-02-06,North,Home & Kitchen,Cookware Set,2,2600.0,0.2,4160.0,890.25,26,Male,Cash on Delivery,5,3.0
+ORD1079,2024-02-07,North,Electronics,Laptop,1,56700.0,0.0,56700.0,5906.2,33,Male,Cash on Delivery,4,4.0
+ORD1080,2024-02-07,West,Electronics,Smartphone,2,24190.0,0.0,48380.0,7679.2,41,Female,Debit Card,4,3.0
+ORD1081,2024-02-08,East,Books,Novel,5,360.0,0.1,1620.0,451.44,36,Female,Debit Card,5,3.0
+ORD1082,2024-02-08,West,Electronics,Smartwatch,1,7560.0,0.1,6804.0,634.84,30,Male,Debit Card,3,4.0
+ORD1083,2024-02-09,Central,Books,Comic,2,260.0,0.1,468.0,105.95,43,Male,Debit Card,5,4.0
+ORD1084,2024-02-09,North,Books,Textbook,5,890.0,0.1,4005.0,1091.24,21,Female,UPI,4,5.0
+ORD1085,2024-02-10,East,Clothing,Jacket,2,3420.0,0.15,5814.0,1502.04,22,Female,UPI,6,4.0
+ORD1086,2024-02-11,South,Home & Kitchen,Bedsheet Set,1,1470.0,0.1,1323.0,211.51,37,Female,Credit Card,3,4.0
+ORD1087,2024-02-11,Central,Electronics,Smartphone,1,25680.0,0.0,25680.0,3223.55,47,Male,Credit Card,6,5.0
+ORD1088,2024-02-11,West,Sports,Yoga Mat,1,800.0,0.0,800.0,224.13,35,Male,Credit Card,5,5.0
+ORD1089,2024-02-11,Central,Electronics,Smartwatch,2,8160.0,0.1,14688.0,1299.75,39,Female,Credit Card,5,3.0
+ORD1090,2024-02-11,East,Electronics,Smartwatch,1,7930.0,0.3,5551.0,-205.7,33,Male,UPI,6,3.0
+ORD1091,2024-02-12,West,Sports,Cricket Bat,1,2230.0,0.0,2230.0,641.07,36,Female,Credit Card,5,4.0
+ORD1092,2024-02-12,East,Clothing,Sneakers,2,2800.0,0.1,5040.0,1468.07,30,Female,Cash on Delivery,5,4.0
+ORD1093,2024-02-13,North,Electronics,Laptop,2,51420.0,0.1,92556.0,10202.52,38,Male,Debit Card,6,4.0
+ORD1094,2024-02-13,East,Electronics,Smartphone,1,25430.0,0.15,21615.5,288.46,38,Male,UPI,7,4.0
+ORD1095,2024-02-13,North,Home & Kitchen,Bedsheet Set,1,1570.0,0.15,1334.5,256.06,31,Male,UPI,3,4.0
+ORD1096,2024-02-13,East,Clothing,T-Shirt,4,740.0,0.15,2516.0,623.74,21,Male,Credit Card,4,4.0
+ORD1097,2024-02-14,South,Home & Kitchen,Air Fryer,2,5900.0,0.0,11800.0,2653.69,32,Female,Credit Card,3,3.0
+ORD1098,2024-02-14,North,Home & Kitchen,Bedsheet Set,1,1540.0,0.0,1540.0,441.71,25,Male,UPI,5,4.0
+ORD1099,2024-02-15,North,Clothing,Jeans,2,1880.0,0.05,3572.0,1074.97,38,Female,Net Banking,6,5.0
+ORD1100,2024-02-15,North,Home & Kitchen,Cookware Set,2,2490.0,0.2,3984.0,467.75,30,Male,Credit Card,5,3.0
+ORD1101,2024-02-15,East,Home & Kitchen,Bedsheet Set,2,1470.0,0.05,2793.0,659.66,18,Female,UPI,4,4.0
+ORD1102,2024-02-16,South,Clothing,T-Shirt,5,680.0,0.0,3400.0,1312.35,18,Male,Credit Card,5,4.0
+ORD1103,2024-02-16,South,Sports,Dumbbell Set,1,2420.0,0.0,2420.0,827.96,27,Male,Debit Card,3,4.0
+ORD1104,2024-02-16,Central,Books,Novel,5,370.0,0.15,1572.5,323.61,39,Female,UPI,6,4.0
+ORD1105,2024-02-16,South,Electronics,Laptop,1,55800.0,0.05,53010.0,6021.39,33,Female,UPI,5,4.0
+ORD1106,2024-02-17,South,Clothing,Sneakers,2,2680.0,0.1,4824.0,1409.97,36,Male,Credit Card,4,4.0
+ORD1107,2024-02-17,East,Electronics,Smartphone,2,24010.0,0.15,40817.0,1969.5,37,Male,Credit Card,4,4.0
+ORD1108,2024-02-17,South,Home & Kitchen,Mixer Grinder,1,3130.0,0.0,3130.0,699.59,30,Female,Credit Card,3,4.0
+ORD1109,2024-02-17,South,Electronics,Laptop,1,55310.0,0.1,49779.0,3945.05,41,Female,UPI,5,3.0
+ORD1110,2024-02-18,Central,Books,Cookbook,4,620.0,0.2,1984.0,430.91,26,Female,UPI,5,5.0
+ORD1111,2024-02-18,East,Electronics,Smartwatch,1,7740.0,0.05,7353.0,786.7,37,Female,UPI,6,4.0
+ORD1112,2024-02-18,West,Clothing,Jeans,5,1750.0,0.0,8750.0,3013.58,32,Female,UPI,4,5.0
+ORD1113,2024-02-18,East,Clothing,Sneakers,3,2910.0,0.0,8730.0,3545.84,38,Male,UPI,5,4.0
+ORD1114,2024-02-18,South,Electronics,Laptop,2,57240.0,0.15,97308.0,3351.17,30,Male,Credit Card,4,4.0
+ORD1115,2024-02-19,North,Clothing,Jeans,2,1790.0,0.0,3580.0,1275.47,33,Female,Debit Card,5,3.0
+ORD1116,2024-02-20,East,Clothing,T-Shirt,3,700.0,0.1,1890.0,527.8,18,Female,UPI,7,4.0
+ORD1117,2024-02-20,South,Books,Comic,4,260.0,0.0,1040.0,228.62,37,Female,UPI,6,4.0
+ORD1118,2024-02-20,West,Books,Cookbook,5,580.0,0.0,2900.0,852.5,32,Female,UPI,3,4.0
+ORD1119,2024-02-21,East,Sports,Dumbbell Set,2,2550.0,0.15,4335.0,804.93,34,Female,Debit Card,7,5.0
+ORD1120,2024-02-21,Central,Sports,Football,1,900.0,0.15,765.0,167.61,30,Male,Cash on Delivery,4,5.0
+ORD1121,2024-02-21,North,Home & Kitchen,Air Fryer,2,6070.0,0.3,8498.0,4.05,48,Female,UPI,2,4.0
+ORD1122,2024-02-22,North,Clothing,Sneakers,1,2590.0,0.0,2590.0,942.23,29,Male,Credit Card,5,4.0
+ORD1123,2024-02-22,North,Home & Kitchen,Cookware Set,2,2430.0,0.2,3888.0,524.56,43,Female,Debit Card,5,4.0
+ORD1124,2024-02-22,North,Books,Cookbook,4,600.0,0.2,1920.0,422.56,31,Female,Cash on Delivery,4,3.0
+ORD1125,2024-02-22,East,Books,Cookbook,3,620.0,0.15,1581.0,283.13,18,Male,UPI,6,4.0
+ORD1126,2024-02-22,West,Electronics,Smartphone,2,23980.0,0.05,45562.0,4120.25,20,Male,UPI,3,5.0
+ORD1127,2024-02-23,East,Sports,Cricket Bat,2,2260.0,0.15,3842.0,737.41,34,Female,Cash on Delivery,6,3.0
+ORD1128,2024-02-23,North,Clothing,T-Shirt,4,700.0,0.1,2520.0,825.46,38,Male,UPI,6,5.0
+ORD1129,2024-02-23,South,Books,Cookbook,4,610.0,0.0,2440.0,727.32,35,Female,UPI,4,4.0
+ORD1130,2024-02-24,South,Electronics,Headphones,1,3090.0,0.1,2781.0,293.68,23,Male,UPI,4,5.0
+ORD1131,2024-02-24,West,Home & Kitchen,Air Fryer,1,5660.0,0.0,5660.0,1084.05,43,Male,Debit Card,2,5.0
+ORD1132,2024-02-24,North,Sports,Cricket Bat,2,2170.0,0.15,3689.0,638.99,34,Female,Credit Card,4,5.0
+ORD1133,2024-02-24,West,Electronics,Laptop,2,54910.0,0.1,98838.0,7925.78,30,Female,UPI,5,2.0
+ORD1134,2024-02-25,North,Home & Kitchen,Cookware Set,1,2610.0,0.1,2349.0,458.09,21,Female,UPI,5,4.0
+ORD1135,2024-02-25,East,Books,Comic,4,250.0,0.2,800.0,141.42,30,Female,UPI,8,4.0
+ORD1136,2024-02-25,North,Books,Novel,4,340.0,0.0,1360.0,494.51,38,Male,UPI,4,5.0
+ORD1137,2024-02-26,Central,Clothing,Jacket,4,3530.0,0.2,11296.0,2842.64,32,Female,UPI,3,4.0
+ORD1138,2024-02-27,North,Home & Kitchen,Bedsheet Set,2,1580.0,0.0,3160.0,672.21,38,Female,Debit Card,6,4.0
+ORD1139,2024-02-27,East,Home & Kitchen,Bedsheet Set,1,1530.0,0.0,1530.0,446.2,37,Female,Debit Card,7,3.0
+ORD1140,2024-02-27,West,Sports,Football,1,950.0,0.1,855.0,176.15,44,Female,Debit Card,5,4.0
+ORD1141,2024-02-27,West,Electronics,Headphones,1,2950.0,0.0,2950.0,268.25,25,Male,Debit Card,5,3.0
+ORD1142,2024-02-27,North,Clothing,Jeans,5,1770.0,0.1,7965.0,2426.85,32,Female,Credit Card,5,5.0
+ORD1143,2024-02-28,East,Home & Kitchen,Cookware Set,2,2450.0,0.15,4165.0,576.57,27,Female,Cash on Delivery,8,3.0
+ORD1144,2024-02-28,North,Sports,Cricket Bat,1,2220.0,0.05,2109.0,600.02,33,Male,UPI,5,3.0
+ORD1145,2024-02-28,South,Clothing,T-Shirt,3,730.0,0.0,2190.0,789.33,19,Male,Credit Card,2,4.0
+ORD1146,2024-02-29,North,Clothing,T-Shirt,5,680.0,0.05,3230.0,994.29,34,Female,UPI,5,4.0
+ORD1147,2024-03-01,North,Electronics,Laptop,2,53790.0,0.2,86064.0,-1010.91,45,Male,Net Banking,3,4.0
+ORD1148,2024-03-01,East,Electronics,Laptop,2,55020.0,0.0,110040.0,18537.66,29,Male,UPI,5,3.0
+ORD1149,2024-03-01,South,Books,Textbook,4,870.0,0.0,3480.0,945.06,36,Male,Debit Card,2,5.0
+ORD1150,2024-03-02,North,Sports,Cricket Bat,1,2090.0,0.1,1881.0,347.02,42,Female,Net Banking,8,4.0
+ORD1151,2024-03-02,South,Home & Kitchen,Mixer Grinder,2,3360.0,0.1,6048.0,1265.4,31,Male,UPI,6,5.0
+ORD1152,2024-03-02,North,Clothing,Jeans,1,1960.0,0.1,1764.0,458.52,27,Female,UPI,3,5.0
+ORD1153,2024-03-02,Central,Electronics,Laptop,2,58440.0,0.0,116880.0,18284.32,28,Male,UPI,5,3.0
+ORD1154,2024-03-02,West,Electronics,Smartwatch,2,7390.0,0.2,11824.0,-516.32,31,Female,Debit Card,2,4.0
+ORD1155,2024-03-02,South,Clothing,Jeans,3,1850.0,0.0,5550.0,1949.03,18,Female,UPI,4,4.0
+ORD1156,2024-03-03,South,Home & Kitchen,Bedsheet Set,1,1500.0,0.05,1425.0,255.05,18,Female,UPI,3,4.0
+ORD1157,2024-03-03,North,Home & Kitchen,Air Fryer,2,5810.0,0.0,11620.0,3447.73,35,Female,Credit Card,4,5.0
+ORD1158,2024-03-03,South,Sports,Football,1,900.0,0.1,810.0,190.58,35,Female,UPI,2,4.0
+ORD1159,2024-03-03,Central,Books,Novel,2,380.0,0.2,608.0,130.78,25,Female,Debit Card,3,4.0
+ORD1160,2024-03-04,Central,Home & Kitchen,Air Fryer,1,6000.0,0.05,5700.0,1300.7,21,Male,Debit Card,2,4.0
+ORD1161,2024-03-04,North,Home & Kitchen,Mixer Grinder,2,3220.0,0.0,6440.0,1805.23,19,Female,Credit Card,3,3.0
+ORD1162,2024-03-04,South,Electronics,Laptop,1,55880.0,0.15,47498.0,1984.23,35,Male,Credit Card,5,4.0
+ORD1163,2024-03-05,East,Electronics,Headphones,1,3040.0,0.15,2584.0,31.48,32,Female,Credit Card,8,3.0
+ORD1164,2024-03-05,North,Books,Cookbook,3,610.0,0.1,1647.0,405.44,53,Female,Cash on Delivery,4,4.0
+ORD1165,2024-03-06,East,Electronics,Smartwatch,1,8100.0,0.2,6480.0,-10.99,46,Female,Cash on Delivery,7,3.0
+ORD1166,2024-03-06,West,Clothing,T-Shirt,4,680.0,0.0,2720.0,859.94,30,Male,Credit Card,4,4.0
+ORD1167,2024-03-06,South,Clothing,T-Shirt,3,770.0,0.2,1848.0,334.69,21,Female,UPI,3,5.0
+ORD1168,2024-03-07,South,Clothing,Jacket,4,3380.0,0.1,12168.0,3649.8,18,Female,Cash on Delivery,3,3.0
+ORD1169,2024-03-07,West,Home & Kitchen,Mixer Grinder,2,2990.0,0.0,5980.0,1432.37,35,Female,Cash on Delivery,2,4.0
+ORD1170,2024-03-08,West,Sports,Cricket Bat,2,2250.0,0.0,4500.0,1228.1,47,Male,Debit Card,2,4.0
+ORD1171,2024-03-08,Central,Sports,Cricket Bat,2,2380.0,0.05,4522.0,1152.53,18,Female,Debit Card,3,3.0
+ORD1172,2024-03-08,South,Books,Comic,3,240.0,0.05,684.0,155.96,31,Female,UPI,1,4.0
+ORD1173,2024-03-08,East,Sports,Football,2,860.0,0.1,1548.0,356.3,42,Male,UPI,6,5.0
+ORD1174,2024-03-09,West,Sports,Dumbbell Set,2,2350.0,0.0,4700.0,1458.14,28,Male,Debit Card,5,4.0
+ORD1175,2024-03-09,North,Electronics,Smartphone,1,25140.0,0.15,21369.0,1071.24,18,Male,UPI,4,3.0
+ORD1176,2024-03-09,Central,Clothing,Jacket,5,3750.0,0.2,15000.0,3647.4,26,Male,Debit Card,7,4.0
+ORD1177,2024-03-10,East,Clothing,Jeans,2,1690.0,0.1,3042.0,978.11,37,Male,Cash on Delivery,5,4.0
+ORD1178,2024-03-11,East,Sports,Yoga Mat,2,780.0,0.05,1482.0,316.47,37,Female,Debit Card,7,3.0
+ORD1179,2024-03-11,South,Clothing,Sneakers,5,2780.0,0.05,13205.0,4350.62,21,Male,Credit Card,5,4.0
+ORD1180,2024-03-12,North,Clothing,Jacket,4,3240.0,0.0,12960.0,3999.46,38,Female,Net Banking,4,4.0
+ORD1181,2024-03-12,South,Books,Textbook,3,890.0,0.0,2670.0,806.17,20,Male,UPI,2,5.0
+ORD1182,2024-03-12,West,Books,Comic,1,250.0,0.2,200.0,29.6,27,Female,UPI,4,4.0
+ORD1183,2024-03-12,East,Sports,Dumbbell Set,2,2510.0,0.05,4769.0,1124.41,30,Male,Credit Card,8,3.0
+ORD1184,2024-03-12,East,Home & Kitchen,Air Fryer,1,5840.0,0.0,5840.0,1260.06,35,Male,Credit Card,8,5.0
+ORD1185,2024-03-13,North,Books,Cookbook,4,620.0,0.0,2480.0,704.24,30,Female,Debit Card,4,5.0
+ORD1186,2024-03-13,East,Clothing,Jeans,3,1780.0,0.05,5073.0,1857.71,40,Female,Cash on Delivery,6,3.0
+ORD1187,2024-03-13,South,Books,Cookbook,3,570.0,0.05,1624.5,504.76,40,Male,UPI,3,4.0
+ORD1188,2024-03-13,East,Clothing,T-Shirt,2,710.0,0.0,1420.0,493.16,26,Male,UPI,6,4.0
+ORD1189,2024-03-14,South,Books,Cookbook,3,590.0,0.15,1504.5,389.15,34,Female,Net Banking,4,3.0
+ORD1190,2024-03-15,West,Sports,Yoga Mat,1,770.0,0.0,770.0,214.6,18,Male,UPI,4,5.0
+ORD1191,2024-03-16,South,Books,Comic,2,250.0,0.0,500.0,135.13,25,Female,Cash on Delivery,1,4.0
+ORD1192,2024-03-16,Central,Clothing,Sneakers,5,2800.0,0.3,9800.0,1666.31,24,Male,Cash on Delivery,4,4.0
+ORD1193,2024-03-16,North,Clothing,Sneakers,4,2910.0,0.05,11058.0,3491.49,25,Male,Debit Card,2,4.0
+ORD1194,2024-03-16,South,Sports,Cricket Bat,2,2270.0,0.1,4086.0,832.71,38,Female,UPI,2,4.0
+ORD1195,2024-03-17,South,Clothing,Jacket,1,3520.0,0.05,3344.0,1077.87,42,Female,Cash on Delivery,3,3.0
+ORD1196,2024-03-18,West,Sports,Dumbbell Set,1,2540.0,0.15,2159.0,273.83,34,Female,Cash on Delivery,3,5.0
+ORD1197,2024-03-18,West,Clothing,T-Shirt,3,670.0,0.05,1909.5,654.96,45,Male,UPI,3,3.0
+ORD1198,2024-03-18,Central,Clothing,Sneakers,5,2850.0,0.0,14250.0,4809.88,22,Female,UPI,3,3.0
+ORD1199,2024-03-19,South,Electronics,Smartphone,1,24910.0,0.2,19928.0,-270.94,27,Female,UPI,5,5.0
+ORD1200,2024-03-19,Central,Clothing,Sneakers,3,2630.0,0.05,7495.5,2299.88,37,Female,Credit Card,3,4.0
+ORD1201,2024-03-20,South,Clothing,T-Shirt,3,720.0,0.0,2160.0,701.41,27,Female,UPI,3,3.0
+ORD1202,2024-03-20,West,Clothing,Sneakers,5,2780.0,0.15,11815.0,2861.66,37,Female,UPI,5,3.0
+ORD1203,2024-03-21,North,Electronics,Laptop,2,51910.0,0.05,98629.0,9273.11,37,Female,Cash on Delivery,4,5.0
+ORD1204,2024-03-22,North,Electronics,Smartwatch,1,7530.0,0.0,7530.0,1170.86,35,Male,Credit Card,3,4.0
+ORD1205,2024-03-22,South,Books,Comic,5,260.0,0.15,1105.0,201.81,38,Male,Cash on Delivery,4,4.0
+ORD1206,2024-03-22,North,Electronics,Headphones,1,3050.0,0.0,3050.0,348.01,20,Female,Credit Card,1,5.0
+ORD1207,2024-03-23,North,Home & Kitchen,Mixer Grinder,2,3090.0,0.0,6180.0,1354.41,24,Female,Credit Card,6,2.0
+ORD1208,2024-03-23,North,Books,Novel,3,330.0,0.15,841.5,214.37,38,Male,Credit Card,7,4.0
+ORD1209,2024-03-23,West,Sports,Cricket Bat,1,2260.0,0.0,2260.0,596.31,25,Female,UPI,3,4.0
+ORD1210,2024-03-24,East,Clothing,Jacket,3,3650.0,0.05,10402.5,3906.41,48,Male,Credit Card,8,2.0
+ORD1211,2024-03-25,East,Clothing,T-Shirt,1,690.0,0.0,690.0,230.39,18,Male,Debit Card,6,4.0
+ORD1212,2024-03-25,North,Electronics,Smartphone,2,24670.0,0.0,49340.0,7537.04,19,Female,Credit Card,5,4.0
+ORD1213,2024-03-26,Central,Clothing,Sneakers,5,2960.0,0.1,13320.0,3167.37,26,Female,UPI,5,4.0
+ORD1214,2024-03-26,West,Clothing,T-Shirt,3,700.0,0.05,1995.0,663.95,21,Female,Debit Card,5,3.0
+ORD1215,2024-03-27,North,Sports,Cricket Bat,1,2100.0,0.0,2100.0,586.01,30,Male,Net Banking,5,4.0
+ORD1216,2024-03-28,West,Home & Kitchen,Air Fryer,2,5970.0,0.2,9552.0,1151.56,41,Male,Credit Card,7,4.0
+ORD1217,2024-03-28,North,Sports,Cricket Bat,1,2190.0,0.05,2080.5,460.67,19,Female,Debit Card,3,4.0
+ORD1218,2024-03-28,North,Home & Kitchen,Air Fryer,1,5960.0,0.15,5066.0,798.98,30,Female,UPI,3,4.0
+ORD1219,2024-03-29,North,Clothing,Jeans,5,1770.0,0.0,8850.0,2965.23,40,Male,Cash on Delivery,6,4.0
+ORD1220,2024-03-29,East,Clothing,Jeans,5,1860.0,0.1,8370.0,1990.64,44,Female,Credit Card,5,5.0
+ORD1221,2024-03-29,South,Clothing,Jacket,3,3610.0,0.0,10830.0,3814.15,18,Male,Net Banking,5,5.0
+ORD1222,2024-03-29,North,Books,Novel,3,360.0,0.15,918.0,181.07,27,Female,Cash on Delivery,3,4.0
+ORD1223,2024-03-29,South,Sports,Football,2,930.0,0.05,1767.0,358.76,46,Male,UPI,4,5.0
+ORD1224,2024-03-30,West,Books,Comic,3,260.0,0.0,780.0,207.73,34,Female,Cash on Delivery,5,4.0
+ORD1225,2024-03-31,South,Home & Kitchen,Bedsheet Set,1,1500.0,0.05,1425.0,297.89,54,Male,Debit Card,3,4.0
+ORD1226,2024-03-31,West,Sports,Yoga Mat,1,780.0,0.05,741.0,193.69,50,Male,Net Banking,3,4.0
+ORD1227,2024-03-31,Central,Electronics,Headphones,1,3040.0,0.0,3040.0,369.26,27,Male,Credit Card,7,3.0
+ORD1228,2024-04-01,East,Clothing,Jacket,1,3720.0,0.05,3534.0,1021.31,30,Female,Net Banking,6,4.0
+ORD1229,2024-04-02,North,Books,Novel,5,360.0,0.1,1620.0,370.75,21,Female,Credit Card,6,5.0
+ORD1230,2024-04-02,South,Electronics,Headphones,1,3230.0,0.05,3068.5,289.74,18,Male,Credit Card,2,4.0
+ORD1231,2024-04-03,Central,Sports,Yoga Mat,1,800.0,0.1,720.0,191.63,40,Female,Credit Card,6,4.0
+ORD1232,2024-04-04,West,Books,Novel,3,370.0,0.05,1054.5,288.98,43,Female,Debit Card,3,4.0
+ORD1233,2024-04-05,East,Electronics,Smartphone,2,25280.0,0.2,40448.0,-397.7,41,Male,Debit Card,4,4.0
+ORD1234,2024-04-08,East,Clothing,Jeans,2,1880.0,0.0,3760.0,1454.77,38,Female,UPI,5,4.0
+ORD1235,2024-04-09,West,Clothing,Jeans,2,1790.0,0.1,3222.0,841.84,47,Male,Credit Card,3,3.0
+ORD1236,2024-04-09,North,Home & Kitchen,Cookware Set,2,2620.0,0.0,5240.0,1253.39,18,Female,Credit Card,6,5.0
+ORD1237,2024-04-09,North,Electronics,Laptop,1,52110.0,0.1,46899.0,3269.06,19,Male,Net Banking,2,4.0
+ORD1238,2024-04-10,East,Electronics,Smartwatch,1,7390.0,0.2,5912.0,-65.87,45,Female,Credit Card,4,4.0
+ORD1239,2024-04-10,North,Books,Comic,1,260.0,0.1,234.0,63.88,47,Male,UPI,4,3.0
+ORD1240,2024-04-11,Central,Clothing,Sneakers,5,2940.0,0.15,12495.0,2744.79,39,Female,UPI,5,4.0
+ORD1241,2024-04-11,South,Books,Novel,4,360.0,0.0,1440.0,417.62,38,Male,UPI,2,4.0
+ORD1242,2024-04-11,West,Clothing,Jacket,1,3450.0,0.05,3277.5,996.79,38,Female,Credit Card,5,3.0
+ORD1243,2024-04-11,West,Home & Kitchen,Air Fryer,1,6180.0,0.05,5871.0,1178.47,19,Female,UPI,3,4.0
+ORD1244,2024-04-12,West,Electronics,Laptop,1,57130.0,0.05,54273.5,2271.13,33,Male,Credit Card,3,4.0
+ORD1245,2024-04-12,North,Clothing,Sneakers,4,2860.0,0.05,10868.0,2889.01,33,Female,Net Banking,4,4.0
+ORD1246,2024-04-12,North,Sports,Football,2,840.0,0.0,1680.0,515.79,43,Female,UPI,5,4.0
+ORD1247,2024-04-13,Central,Electronics,Smartphone,1,25860.0,0.05,24567.0,2187.16,40,Female,Credit Card,5,4.0
+ORD1248,2024-04-13,North,Electronics,Laptop,2,56300.0,0.1,101340.0,10573.32,38,Male,Debit Card,4,4.0
+ORD1249,2024-04-13,East,Clothing,T-Shirt,4,750.0,0.1,2700.0,784.59,44,Male,UPI,7,3.0
+ORD1250,2024-04-14,North,Electronics,Smartphone,2,23930.0,0.05,45467.0,3242.5,28,Male,UPI,4,4.0
+ORD1251,2024-04-15,East,Sports,Football,1,930.0,0.05,883.5,214.16,37,Female,Debit Card,7,4.0
+ORD1252,2024-04-15,North,Sports,Football,1,940.0,0.15,799.0,149.06,27,Female,Net Banking,7,5.0
+ORD1253,2024-04-15,East,Home & Kitchen,Air Fryer,2,5680.0,0.0,11360.0,2695.73,22,Female,UPI,5,4.0
+ORD1254,2024-04-15,South,Clothing,Jeans,5,1780.0,0.0,8900.0,2939.4,40,Male,UPI,1,4.0
+ORD1255,2024-04-15,East,Books,Textbook,4,920.0,0.15,3128.0,541.03,31,Female,Credit Card,4,4.0
+ORD1256,2024-04-16,South,Books,Cookbook,5,560.0,0.15,2380.0,498.67,37,Female,Cash on Delivery,6,3.0
+ORD1257,2024-04-16,South,Home & Kitchen,Mixer Grinder,2,3060.0,0.05,5814.0,1225.71,34,Female,Cash on Delivery,6,4.0
+ORD1258,2024-04-16,North,Home & Kitchen,Air Fryer,1,6250.0,0.15,5312.5,845.19,28,Female,Credit Card,4,5.0
+ORD1259,2024-04-17,North,Sports,Cricket Bat,1,2050.0,0.1,1845.0,365.47,27,Female,Credit Card,5,4.0
+ORD1260,2024-04-17,West,Clothing,T-Shirt,5,730.0,0.2,2920.0,667.91,28,Male,UPI,2,3.0
+ORD1261,2024-04-18,Central,Electronics,Laptop,2,54430.0,0.05,103417.0,7808.3,26,Male,Cash on Delivery,7,4.0
+ORD1262,2024-04-18,West,Home & Kitchen,Air Fryer,1,5790.0,0.3,4053.0,293.62,45,Male,Cash on Delivery,5,4.0
+ORD1263,2024-04-19,North,Home & Kitchen,Air Fryer,1,5700.0,0.0,5700.0,1290.55,18,Male,Debit Card,6,3.0
+ORD1264,2024-04-20,West,Electronics,Laptop,1,51620.0,0.0,51620.0,5255.66,25,Female,Credit Card,3,3.0
+ORD1265,2024-04-20,South,Clothing,Jeans,3,1720.0,0.2,4128.0,1075.22,38,Female,Credit Card,4,4.0
+ORD1266,2024-04-20,West,Clothing,Sneakers,5,2810.0,0.05,13347.5,5061.2,48,Female,Credit Card,6,4.0
+ORD1267,2024-04-20,West,Books,Cookbook,4,590.0,0.1,2124.0,552.59,37,Female,Credit Card,1,5.0
+ORD1268,2024-04-20,South,Clothing,T-Shirt,3,690.0,0.05,1966.5,699.52,26,Male,UPI,3,5.0
+ORD1269,2024-04-21,Central,Electronics,Smartwatch,1,7710.0,0.05,7324.5,858.96,42,Female,UPI,6,4.0
+ORD1270,2024-04-21,Central,Clothing,Jacket,5,3390.0,0.15,14407.5,4355.89,37,Male,Credit Card,5,4.0
+ORD1271,2024-04-23,South,Home & Kitchen,Mixer Grinder,2,3030.0,0.15,5151.0,852.92,24,Female,Cash on Delivery,4,5.0
+ORD1272,2024-04-23,North,Electronics,Headphones,2,3020.0,0.0,6040.0,825.38,32,Male,UPI,5,2.0
+ORD1273,2024-04-24,West,Home & Kitchen,Bedsheet Set,1,1570.0,0.3,1099.0,68.41,33,Male,Credit Card,3,4.0
+ORD1274,2024-04-25,Central,Clothing,Jacket,5,3500.0,0.3,12250.0,2038.92,35,Female,UPI,5,3.0
+ORD1275,2024-04-26,West,Electronics,Smartwatch,2,8350.0,0.2,13360.0,206.33,44,Female,Net Banking,4,3.0
+ORD1276,2024-04-26,South,Clothing,Jeans,4,1960.0,0.1,7056.0,1909.13,25,Female,Debit Card,3,3.0
+ORD1277,2024-04-26,North,Books,Novel,3,330.0,0.05,940.5,219.07,36,Male,UPI,3,3.0
+ORD1278,2024-04-28,North,Sports,Yoga Mat,2,820.0,0.0,1640.0,488.51,47,Female,Debit Card,5,3.0
+ORD1279,2024-04-28,North,Clothing,Sneakers,4,2570.0,0.1,9252.0,2880.47,34,Female,UPI,4,4.0
+ORD1280,2024-04-28,East,Electronics,Headphones,1,2900.0,0.1,2610.0,97.17,36,Female,UPI,6,3.0
+ORD1281,2024-04-29,North,Electronics,Smartwatch,2,8240.0,0.1,14832.0,1231.36,27,Female,UPI,3,4.0
+ORD1282,2024-04-29,West,Home & Kitchen,Bedsheet Set,1,1520.0,0.15,1292.0,189.62,36,Female,Credit Card,6,4.0
+ORD1283,2024-05-01,West,Home & Kitchen,Bedsheet Set,1,1460.0,0.1,1314.0,229.17,45,Male,Debit Card,3,4.0
+ORD1284,2024-05-01,South,Home & Kitchen,Mixer Grinder,1,3180.0,0.05,3021.0,599.33,39,Female,Credit Card,5,4.0
+ORD1285,2024-05-01,East,Home & Kitchen,Bedsheet Set,2,1600.0,0.0,3200.0,700.04,35,Female,UPI,5,4.0
+ORD1286,2024-05-02,West,Home & Kitchen,Air Fryer,1,5920.0,0.0,5920.0,1397.85,41,Female,Net Banking,6,4.0
+ORD1287,2024-05-02,West,Books,Cookbook,5,650.0,0.0,3250.0,889.61,28,Male,UPI,5,4.0
+ORD1288,2024-05-02,North,Clothing,T-Shirt,4,750.0,0.2,2400.0,608.42,25,Male,UPI,5,4.0
+ORD1289,2024-05-02,North,Electronics,Headphones,2,2990.0,0.05,5681.0,548.6,18,Female,Credit Card,5,4.0
+ORD1290,2024-05-03,West,Clothing,Jacket,3,3540.0,0.15,9027.0,1760.97,21,Female,Credit Card,6,3.0
+ORD1291,2024-05-04,Central,Books,Novel,2,370.0,0.0,740.0,265.61,38,Male,UPI,7,3.0
+ORD1292,2024-05-04,South,Sports,Dumbbell Set,1,2640.0,0.0,2640.0,628.45,31,Male,Debit Card,1,4.0
+ORD1293,2024-05-04,East,Electronics,Smartphone,1,24930.0,0.15,21190.5,219.78,29,Male,Net Banking,3,5.0
+ORD1294,2024-05-05,South,Books,Novel,4,340.0,0.0,1360.0,479.73,40,Female,Credit Card,3,3.0
+ORD1295,2024-05-05,South,Electronics,Smartwatch,1,8840.0,0.1,7956.0,183.32,21,Male,Debit Card,3,4.0
+ORD1296,2024-05-05,South,Electronics,Smartwatch,2,8220.0,0.15,13974.0,538.78,22,Male,UPI,2,4.0
+ORD1297,2024-05-05,North,Books,Comic,4,260.0,0.0,1040.0,328.6,26,Male,UPI,5,4.0
+ORD1298,2024-05-06,North,Clothing,Jeans,4,1800.0,0.2,5760.0,1596.34,48,Female,Debit Card,5,4.0
+ORD1299,2024-05-07,East,Sports,Yoga Mat,1,860.0,0.0,860.0,207.15,55,Female,UPI,5,4.0
+ORD1300,2024-05-08,North,Sports,Cricket Bat,1,1960.0,0.05,1862.0,383.89,60,Female,Credit Card,4,3.0
+ORD1301,2024-05-08,East,Sports,Dumbbell Set,1,2570.0,0.0,2570.0,787.74,33,Male,UPI,7,3.0
+ORD1302,2024-05-08,North,Home & Kitchen,Bedsheet Set,2,1480.0,0.15,2516.0,448.07,20,Female,Debit Card,2,4.0
+ORD1303,2024-05-08,Central,Home & Kitchen,Bedsheet Set,2,1490.0,0.1,2682.0,623.79,44,Male,Net Banking,3,3.0
+ORD1304,2024-05-09,West,Books,Cookbook,2,590.0,0.2,944.0,126.92,37,Male,Debit Card,3,4.0
+ORD1305,2024-05-09,North,Electronics,Headphones,2,3030.0,0.15,5151.0,414.19,35,Male,Net Banking,2,5.0
+ORD1306,2024-05-09,North,Home & Kitchen,Mixer Grinder,2,3280.0,0.1,5904.0,1190.59,34,Female,Debit Card,5,3.0
+ORD1307,2024-05-10,West,Books,Comic,3,260.0,0.15,663.0,141.7,47,Female,Debit Card,4,5.0
+ORD1308,2024-05-10,North,Books,Novel,4,360.0,0.05,1368.0,395.04,45,Female,UPI,7,5.0
+ORD1309,2024-05-11,South,Electronics,Laptop,2,54120.0,0.3,75768.0,-3601.25,18,Male,UPI,3,4.0
+ORD1310,2024-05-11,South,Home & Kitchen,Bedsheet Set,2,1530.0,0.1,2754.0,545.19,26,Female,UPI,1,4.0
+ORD1311,2024-05-11,North,Clothing,Jeans,1,1760.0,0.2,1408.0,382.23,37,Female,UPI,3,4.0
+ORD1312,2024-05-11,South,Clothing,Jacket,5,3580.0,0.1,16110.0,3715.33,39,Female,Debit Card,6,5.0
+ORD1313,2024-05-11,East,Electronics,Smartphone,1,25560.0,0.15,21726.0,1459.44,44,Male,Credit Card,5,3.0
+ORD1314,2024-05-12,Central,Home & Kitchen,Air Fryer,1,6190.0,0.1,5571.0,907.33,25,Male,UPI,5,3.0
+ORD1315,2024-05-12,South,Home & Kitchen,Bedsheet Set,2,1530.0,0.1,2754.0,486.29,30,Female,UPI,4,4.0
+ORD1316,2024-05-12,North,Home & Kitchen,Air Fryer,1,6050.0,0.0,6050.0,1763.54,35,Female,Debit Card,6,4.0
+ORD1317,2024-05-13,South,Home & Kitchen,Mixer Grinder,2,3380.0,0.05,6422.0,1244.73,38,Male,Credit Card,3,4.0
+ORD1318,2024-05-14,Central,Sports,Yoga Mat,1,770.0,0.0,770.0,214.65,18,Male,UPI,5,4.0
+ORD1319,2024-05-15,North,Clothing,Jeans,3,1820.0,0.15,4641.0,1190.72,32,Male,Debit Card,3,3.0
+ORD1320,2024-05-15,North,Books,Novel,2,350.0,0.05,665.0,188.76,24,Female,Debit Card,3,4.0
+ORD1321,2024-05-15,Central,Clothing,Jacket,2,3540.0,0.1,6372.0,1583.77,28,Male,Cash on Delivery,5,4.0
+ORD1322,2024-05-16,Central,Sports,Football,1,930.0,0.05,883.5,206.38,33,Female,Credit Card,7,2.0
+ORD1323,2024-05-16,North,Home & Kitchen,Mixer Grinder,2,3200.0,0.0,6400.0,1516.49,18,Female,Debit Card,4,4.0
+ORD1324,2024-05-17,West,Books,Cookbook,3,620.0,0.0,1860.0,657.61,43,Male,UPI,4,4.0
+ORD1325,2024-05-17,South,Electronics,Smartphone,1,25300.0,0.1,22770.0,1449.01,40,Male,Debit Card,3,4.0
+ORD1326,2024-05-17,North,Books,Textbook,4,890.0,0.3,2492.0,380.31,31,Female,UPI,4,4.0
+ORD1327,2024-05-18,North,Electronics,Laptop,2,51180.0,0.1,92124.0,7466.37,34,Female,UPI,6,4.0
+ORD1328,2024-05-18,Central,Home & Kitchen,Cookware Set,2,2370.0,0.0,4740.0,1188.03,54,Female,Cash on Delivery,6,4.0
+ORD1329,2024-05-18,West,Electronics,Smartwatch,2,8290.0,0.0,16580.0,2412.63,22,Male,Net Banking,5,3.0
+ORD1330,2024-05-18,North,Clothing,T-Shirt,4,690.0,0.15,2346.0,588.9,38,Female,UPI,4,3.0
+ORD1331,2024-05-18,South,Books,Comic,1,230.0,0.0,230.0,66.89,25,Female,UPI,2,4.0
+ORD1332,2024-05-18,West,Electronics,Smartwatch,2,7990.0,0.1,14382.0,849.79,35,Male,Cash on Delivery,5,4.0
+ORD1333,2024-05-18,North,Books,Textbook,1,870.0,0.2,696.0,104.25,34,Female,Credit Card,3,5.0
+ORD1334,2024-05-19,East,Home & Kitchen,Mixer Grinder,1,3310.0,0.1,2979.0,526.29,36,Male,Debit Card,5,3.0
+ORD1335,2024-05-19,East,Clothing,Jeans,2,1860.0,0.15,3162.0,926.35,20,Male,UPI,5,4.0
+ORD1336,2024-05-20,North,Sports,Yoga Mat,1,800.0,0.05,760.0,226.0,35,Female,UPI,4,5.0
+ORD1337,2024-05-20,West,Electronics,Laptop,1,54550.0,0.0,54550.0,4100.81,39,Male,Credit Card,1,5.0
+ORD1338,2024-05-20,East,Electronics,Smartwatch,1,8000.0,0.1,7200.0,211.04,31,Male,UPI,4,4.0
+ORD1339,2024-05-22,West,Home & Kitchen,Air Fryer,1,6180.0,0.2,4944.0,605.16,32,Female,Credit Card,1,5.0
+ORD1340,2024-05-22,North,Books,Cookbook,3,650.0,0.0,1950.0,737.75,26,Male,Cash on Delivery,4,3.0
+ORD1341,2024-05-23,South,Electronics,Smartphone,1,25830.0,0.3,18081.0,-2018.9,18,Female,Credit Card,4,4.0
+ORD1342,2024-05-23,East,Home & Kitchen,Air Fryer,2,5610.0,0.1,10098.0,2084.66,28,Male,UPI,7,4.0
+ORD1343,2024-05-24,West,Books,Textbook,2,920.0,0.1,1656.0,417.21,24,Male,UPI,4,4.0
+ORD1344,2024-05-24,South,Home & Kitchen,Mixer Grinder,1,3390.0,0.0,3390.0,769.28,30,Female,Credit Card,4,5.0
+ORD1345,2024-05-24,Central,Electronics,Headphones,2,2960.0,0.15,5032.0,-61.8,40,Male,UPI,6,3.0
+ORD1346,2024-05-25,North,Books,Cookbook,4,600.0,0.0,2400.0,760.41,24,Male,Debit Card,5,3.0
+ORD1347,2024-05-25,North,Sports,Football,2,850.0,0.15,1445.0,253.46,37,Male,UPI,5,3.0
+ORD1348,2024-05-25,South,Electronics,Smartwatch,1,8000.0,0.0,8000.0,935.88,31,Male,UPI,5,5.0
+ORD1349,2024-05-27,North,Home & Kitchen,Air Fryer,2,6090.0,0.15,10353.0,2187.56,18,Female,UPI,5,4.0
+ORD1350,2024-05-27,West,Clothing,Jacket,2,3410.0,0.1,6138.0,1814.98,25,Male,UPI,4,3.0
+ORD1351,2024-05-28,North,Sports,Dumbbell Set,1,2560.0,0.05,2432.0,609.38,41,Male,Debit Card,3,5.0
+ORD1352,2024-05-28,North,Clothing,Sneakers,4,2770.0,0.2,8864.0,2011.81,45,Female,Credit Card,3,4.0
+ORD1353,2024-05-28,West,Sports,Dumbbell Set,2,2500.0,0.0,5000.0,1315.86,39,Male,UPI,4,4.0
+ORD1354,2024-05-29,South,Sports,Football,1,850.0,0.15,722.5,135.0,29,Male,Credit Card,3,5.0
+ORD1355,2024-05-29,North,Clothing,Sneakers,2,2760.0,0.0,5520.0,2034.79,18,Male,Debit Card,5,5.0
+ORD1356,2024-05-29,East,Sports,Dumbbell Set,1,2520.0,0.0,2520.0,720.49,41,Female,UPI,6,3.0
+ORD1357,2024-05-29,North,Clothing,Jacket,3,3410.0,0.1,9207.0,2745.68,43,Female,UPI,5,5.0
+ORD1358,2024-05-31,North,Clothing,T-Shirt,2,680.0,0.0,1360.0,481.6,32,Female,Debit Card,5,4.0
+ORD1359,2024-05-31,Central,Books,Comic,2,260.0,0.0,520.0,155.36,29,Female,UPI,5,5.0
+ORD1360,2024-05-31,North,Home & Kitchen,Cookware Set,2,2520.0,0.1,4536.0,1080.88,21,Female,UPI,7,4.0
+ORD1361,2024-06-01,South,Clothing,T-Shirt,5,690.0,0.1,3105.0,825.27,48,Female,Debit Card,4,3.0
+ORD1362,2024-06-03,West,Books,Novel,1,370.0,0.05,351.5,100.3,43,Female,UPI,3,4.0
+ORD1363,2024-06-06,West,Books,Textbook,2,950.0,0.0,1900.0,625.46,36,Female,Debit Card,6,5.0
+ORD1364,2024-06-06,East,Clothing,T-Shirt,3,700.0,0.0,2100.0,653.42,22,Male,Credit Card,5,3.0
+ORD1365,2024-06-07,West,Electronics,Headphones,1,2960.0,0.0,2960.0,435.46,31,Male,UPI,5,4.0
+ORD1366,2024-06-08,South,Electronics,Smartphone,1,24950.0,0.0,24950.0,2966.79,18,Male,Debit Card,5,3.0
+ORD1367,2024-06-08,East,Electronics,Smartwatch,1,7780.0,0.0,7780.0,840.75,26,Female,Debit Card,7,4.0
+ORD1368,2024-06-08,North,Home & Kitchen,Mixer Grinder,2,3270.0,0.0,6540.0,1212.73,40,Male,Credit Card,5,3.0
+ORD1369,2024-06-08,North,Clothing,T-Shirt,3,720.0,0.15,1836.0,514.6,22,Male,Cash on Delivery,5,4.0
+ORD1370,2024-06-09,East,Clothing,Jeans,5,1870.0,0.0,9350.0,3500.56,18,Female,Debit Card,6,5.0
+ORD1371,2024-06-09,East,Electronics,Laptop,1,56920.0,0.05,54074.0,4643.84,30,Female,UPI,8,2.0
+ORD1372,2024-06-10,West,Home & Kitchen,Cookware Set,1,2470.0,0.15,2099.5,281.92,38,Male,Debit Card,4,4.0
+ORD1373,2024-06-10,North,Home & Kitchen,Air Fryer,2,6240.0,0.05,11856.0,2653.24,23,Female,UPI,4,4.0
+ORD1374,2024-06-10,East,Sports,Cricket Bat,1,2270.0,0.2,1816.0,359.81,38,Female,UPI,5,4.0
+ORD1375,2024-06-10,South,Sports,Dumbbell Set,1,2470.0,0.05,2346.5,668.85,38,Male,UPI,3,4.0
+ORD1376,2024-06-11,South,Home & Kitchen,Mixer Grinder,1,3330.0,0.1,2997.0,541.55,52,Female,Debit Card,4,4.0
+ORD1377,2024-06-11,West,Home & Kitchen,Cookware Set,1,2430.0,0.1,2187.0,400.79,20,Male,Credit Card,2,4.0
+ORD1378,2024-06-12,West,Sports,Football,2,950.0,0.15,1615.0,254.44,28,Female,UPI,3,3.0
+ORD1379,2024-06-12,South,Clothing,Sneakers,2,2750.0,0.15,4675.0,1330.42,18,Male,UPI,1,4.0
+ORD1380,2024-06-12,West,Clothing,Jeans,4,1800.0,0.0,7200.0,2313.3,37,Male,Credit Card,3,4.0
+ORD1381,2024-06-13,West,Sports,Dumbbell Set,1,2410.0,0.1,2169.0,520.17,38,Male,Net Banking,5,4.0
+ORD1382,2024-06-13,West,Sports,Cricket Bat,1,2270.0,0.0,2270.0,749.1,28,Female,Credit Card,3,4.0
+ORD1383,2024-06-13,North,Clothing,T-Shirt,4,700.0,0.2,2240.0,576.11,45,Female,UPI,5,3.0
+ORD1384,2024-06-14,Central,Home & Kitchen,Bedsheet Set,1,1470.0,0.05,1396.5,381.5,25,Female,UPI,5,4.0
+ORD1385,2024-06-14,South,Clothing,Jeans,3,2020.0,0.0,6060.0,2109.08,26,Male,UPI,4,4.0
+ORD1386,2024-06-15,South,Clothing,Jeans,5,1850.0,0.05,8787.5,2846.02,47,Male,Debit Card,3,3.0
+ORD1387,2024-06-16,West,Home & Kitchen,Mixer Grinder,2,3200.0,0.1,5760.0,1348.97,38,Male,Net Banking,3,3.0
+ORD1388,2024-06-16,Central,Clothing,Jeans,4,1830.0,0.0,7320.0,2274.56,30,Male,Credit Card,6,4.0
+ORD1389,2024-06-16,South,Home & Kitchen,Cookware Set,2,2340.0,0.1,4212.0,685.18,53,Male,UPI,4,4.0
+ORD1390,2024-06-18,South,Electronics,Smartphone,2,25770.0,0.05,48963.0,3454.3,34,Male,UPI,4,3.0
+ORD1391,2024-06-18,Central,Home & Kitchen,Cookware Set,2,2440.0,0.1,4392.0,722.46,25,Male,Cash on Delivery,5,5.0
+ORD1392,2024-06-20,North,Clothing,Jacket,1,3490.0,0.15,2966.5,978.45,18,Male,UPI,4,4.0
+ORD1393,2024-06-20,North,Clothing,Sneakers,3,2940.0,0.1,7938.0,2480.15,28,Female,Debit Card,5,4.0
+ORD1394,2024-06-20,East,Sports,Dumbbell Set,2,2520.0,0.0,5040.0,1577.24,35,Male,UPI,6,3.0
+ORD1395,2024-06-21,North,Electronics,Headphones,2,2770.0,0.1,4986.0,224.17,34,Female,UPI,5,3.0
+ORD1396,2024-06-21,South,Home & Kitchen,Air Fryer,1,6170.0,0.0,6170.0,1296.42,30,Female,Credit Card,8,5.0
+ORD1397,2024-06-21,South,Clothing,Jeans,1,1810.0,0.0,1810.0,617.77,34,Female,Credit Card,3,4.0
+ORD1398,2024-06-21,East,Clothing,Sneakers,2,2740.0,0.0,5480.0,1924.55,45,Female,UPI,7,4.0
+ORD1399,2024-06-22,West,Clothing,Jacket,3,3540.0,0.05,10089.0,3820.35,38,Male,Cash on Delivery,4,3.0
+ORD1400,2024-06-22,North,Clothing,Jeans,5,1740.0,0.05,8265.0,2956.08,26,Female,Cash on Delivery,3,4.0
+ORD1401,2024-06-22,North,Electronics,Smartphone,1,25040.0,0.0,25040.0,2553.79,39,Female,UPI,3,4.0
+ORD1402,2024-06-22,West,Electronics,Laptop,1,55260.0,0.3,38682.0,-2132.82,39,Female,UPI,5,5.0
+ORD1403,2024-06-23,South,Sports,Yoga Mat,1,770.0,0.0,770.0,187.19,43,Male,Net Banking,5,5.0
+ORD1404,2024-06-24,East,Clothing,Jeans,2,1900.0,0.05,3610.0,1112.61,20,Female,UPI,8,4.0
+ORD1405,2024-06-25,South,Sports,Dumbbell Set,2,2660.0,0.2,4256.0,535.63,38,Male,Credit Card,6,3.0
+ORD1406,2024-06-25,South,Books,Cookbook,4,580.0,0.0,2320.0,714.81,23,Female,UPI,1,4.0
+ORD1407,2024-06-26,North,Sports,Dumbbell Set,1,2460.0,0.15,2091.0,399.38,31,Female,Credit Card,4,4.0
+ORD1408,2024-06-27,North,Clothing,Jeans,4,1860.0,0.15,6324.0,1632.92,24,Female,Cash on Delivery,4,4.0
+ORD1409,2024-06-27,North,Sports,Yoga Mat,1,770.0,0.0,770.0,245.4,21,Male,UPI,5,4.0
+ORD1410,2024-06-27,Central,Sports,Dumbbell Set,1,2570.0,0.0,2570.0,725.65,37,Female,UPI,6,4.0
+ORD1411,2024-06-27,South,Home & Kitchen,Bedsheet Set,1,1590.0,0.05,1510.5,347.75,22,Male,UPI,3,4.0
+ORD1412,2024-06-27,West,Home & Kitchen,Air Fryer,2,6140.0,0.1,11052.0,1323.47,47,Male,UPI,4,4.0
+ORD1413,2024-06-28,South,Books,Textbook,5,910.0,0.0,4550.0,1274.51,31,Male,Credit Card,4,4.0
+ORD1414,2024-06-28,North,Clothing,Jacket,3,3630.0,0.2,8712.0,2197.91,30,Male,Credit Card,3,4.0
+ORD1415,2024-06-29,South,Clothing,Sneakers,5,2880.0,0.1,12960.0,4458.88,35,Male,Debit Card,4,3.0
+ORD1416,2024-06-29,South,Electronics,Smartwatch,1,7840.0,0.1,7056.0,491.93,18,Male,Debit Card,2,3.0
+ORD1417,2024-06-29,South,Electronics,Laptop,1,54200.0,0.0,54200.0,2439.11,31,Male,UPI,3,4.0
+ORD1418,2024-06-30,North,Electronics,Smartphone,1,25470.0,0.05,24196.5,2128.07,37,Male,UPI,3,3.0
+ORD1419,2024-06-30,North,Sports,Football,2,850.0,0.15,1445.0,232.7,31,Female,UPI,4,4.0
+ORD1420,2024-06-30,South,Sports,Football,2,910.0,0.0,1820.0,618.4,32,Female,UPI,3,5.0
+ORD1421,2024-06-30,West,Books,Comic,3,240.0,0.15,612.0,138.98,20,Female,UPI,4,4.0
+ORD1422,2024-07-01,North,Home & Kitchen,Bedsheet Set,2,1530.0,0.0,3060.0,708.95,32,Male,Credit Card,3,3.0
+ORD1423,2024-07-01,East,Home & Kitchen,Bedsheet Set,1,1480.0,0.15,1258.0,270.39,38,Female,UPI,5,4.0
+ORD1424,2024-07-01,South,Books,Cookbook,3,580.0,0.05,1653.0,482.95,18,Female,Debit Card,2,4.0
+ORD1425,2024-07-01,North,Electronics,Smartphone,2,25870.0,0.1,46566.0,-1484.81,18,Female,Credit Card,4,4.0
+ORD1426,2024-07-02,East,Home & Kitchen,Bedsheet Set,1,1500.0,0.0,1500.0,419.88,42,Female,Debit Card,6,4.0
+ORD1427,2024-07-04,North,Sports,Dumbbell Set,1,2600.0,0.1,2340.0,510.51,44,Female,UPI,4,5.0
+ORD1428,2024-07-05,East,Clothing,Sneakers,3,2660.0,0.0,7980.0,2768.22,30,Male,UPI,6,4.0
+ORD1429,2024-07-07,South,Clothing,T-Shirt,3,730.0,0.1,1971.0,532.46,31,Female,Net Banking,1,4.0
+ORD1430,2024-07-07,West,Clothing,Sneakers,2,2730.0,0.05,5187.0,1794.92,30,Male,UPI,4,4.0
+ORD1431,2024-07-07,North,Home & Kitchen,Air Fryer,1,5720.0,0.15,4862.0,634.69,31,Female,Net Banking,4,2.0
+ORD1432,2024-07-07,West,Sports,Dumbbell Set,2,2500.0,0.15,4250.0,868.48,42,Male,Credit Card,4,4.0
+ORD1433,2024-07-08,North,Clothing,Jeans,3,1910.0,0.1,5157.0,1446.3,30,Female,Net Banking,5,4.0
+ORD1434,2024-07-08,East,Clothing,Sneakers,1,2710.0,0.05,2574.5,876.75,30,Female,Credit Card,7,5.0
+ORD1435,2024-07-08,East,Clothing,Jacket,4,3730.0,0.3,10444.0,2188.76,26,Male,Credit Card,4,4.0
+ORD1436,2024-07-09,Central,Clothing,T-Shirt,2,680.0,0.05,1292.0,405.58,46,Male,Net Banking,4,3.0
+ORD1437,2024-07-09,West,Electronics,Smartphone,2,25110.0,0.0,50220.0,3944.91,23,Male,Cash on Delivery,2,3.0
+ORD1438,2024-07-10,West,Sports,Dumbbell Set,1,2400.0,0.2,1920.0,228.37,26,Female,UPI,3,5.0
+ORD1439,2024-07-10,West,Books,Novel,4,350.0,0.0,1400.0,363.6,53,Female,UPI,7,5.0
+ORD1440,2024-07-10,South,Clothing,Sneakers,2,2750.0,0.15,4675.0,1142.09,32,Female,Debit Card,2,5.0
+ORD1441,2024-07-10,South,Clothing,Sneakers,4,2620.0,0.0,10480.0,3452.03,20,Male,UPI,5,4.0
+ORD1442,2024-07-10,South,Sports,Football,2,880.0,0.05,1672.0,466.21,39,Female,Debit Card,5,4.0
+ORD1443,2024-07-11,West,Clothing,Jeans,4,1720.0,0.0,6880.0,2166.79,29,Female,Debit Card,2,4.0
+ORD1444,2024-07-12,Central,Clothing,Jeans,1,1710.0,0.1,1539.0,477.93,18,Female,UPI,5,4.0
+ORD1445,2024-07-12,West,Clothing,Jacket,2,3350.0,0.15,5695.0,1429.39,26,Male,Debit Card,3,3.0
+ORD1446,2024-07-13,East,Clothing,Jeans,3,1840.0,0.05,5244.0,1573.57,35,Male,UPI,3,3.0
+ORD1447,2024-07-14,North,Clothing,Sneakers,3,2980.0,0.0,8940.0,3143.17,21,Male,Net Banking,2,4.0
+ORD1448,2024-07-14,South,Electronics,Laptop,1,54790.0,0.0,54790.0,6237.46,28,Male,Debit Card,2,4.0
+ORD1449,2024-07-14,East,Electronics,Laptop,1,54050.0,0.0,54050.0,8848.96,40,Male,Credit Card,7,2.0
+ORD1450,2024-07-15,East,Clothing,T-Shirt,4,700.0,0.1,2520.0,696.75,18,Male,Debit Card,7,4.0
+ORD1451,2024-07-15,East,Books,Novel,2,330.0,0.3,462.0,30.29,38,Male,UPI,3,5.0
+ORD1452,2024-07-16,South,Clothing,T-Shirt,4,710.0,0.15,2414.0,669.02,18,Male,Cash on Delivery,3,5.0
+ORD1453,2024-07-17,West,Electronics,Laptop,1,50380.0,0.0,50380.0,4528.62,26,Female,Credit Card,2,4.0
+ORD1454,2024-07-17,North,Electronics,Laptop,2,56710.0,0.1,102078.0,965.06,70,Male,Debit Card,4,5.0
+ORD1455,2024-07-17,East,Clothing,Jeans,1,1840.0,0.0,1840.0,619.72,31,Female,UPI,6,3.0
+ORD1456,2024-07-17,North,Electronics,Smartwatch,1,8130.0,0.3,5691.0,-241.97,25,Male,Net Banking,6,4.0
+ORD1457,2024-07-17,Central,Electronics,Headphones,1,3130.0,0.05,2973.5,422.39,27,Female,Cash on Delivery,5,4.0
+ORD1458,2024-07-19,East,Home & Kitchen,Mixer Grinder,1,3110.0,0.15,2643.5,392.2,22,Female,UPI,6,3.0
+ORD1459,2024-07-19,Central,Sports,Football,1,940.0,0.15,799.0,149.52,19,Male,Debit Card,3,3.0
+ORD1460,2024-07-19,North,Clothing,T-Shirt,3,680.0,0.05,1938.0,612.67,32,Female,UPI,5,3.0
+ORD1461,2024-07-20,West,Books,Cookbook,5,600.0,0.0,3000.0,972.04,18,Male,Net Banking,4,4.0
+ORD1462,2024-07-20,North,Sports,Cricket Bat,1,2170.0,0.3,1519.0,76.9,27,Male,UPI,3,3.0
+ORD1463,2024-07-20,South,Sports,Football,2,890.0,0.1,1602.0,347.03,41,Female,UPI,5,3.0
+ORD1464,2024-07-21,North,Clothing,Jacket,5,3650.0,0.15,15512.5,3552.53,47,Female,UPI,5,4.0
+ORD1465,2024-07-21,East,Electronics,Laptop,1,53140.0,0.15,45169.0,-152.22,31,Male,UPI,5,4.0
+ORD1466,2024-07-22,North,Electronics,Smartwatch,1,8320.0,0.05,7904.0,1011.54,41,Female,UPI,3,5.0
+ORD1467,2024-07-22,South,Sports,Yoga Mat,1,810.0,0.1,729.0,169.6,31,Male,Credit Card,3,4.0
+ORD1468,2024-07-22,West,Sports,Dumbbell Set,2,2470.0,0.15,4199.0,829.25,43,Male,Credit Card,5,3.0
+ORD1469,2024-07-22,North,Books,Novel,4,350.0,0.15,1190.0,203.05,34,Male,Cash on Delivery,5,4.0
+ORD1470,2024-07-23,Central,Clothing,Jeans,3,1930.0,0.0,5790.0,1806.41,41,Male,Debit Card,6,3.0
+ORD1471,2024-07-23,North,Home & Kitchen,Air Fryer,2,6060.0,0.05,11514.0,2387.91,33,Female,Credit Card,7,4.0
+ORD1472,2024-07-23,East,Clothing,Jeans,3,1860.0,0.0,5580.0,2168.4,18,Male,UPI,5,4.0
+ORD1473,2024-07-23,North,Electronics,Laptop,2,52340.0,0.0,104680.0,19276.32,18,Female,Credit Card,2,5.0
+ORD1474,2024-07-24,South,Home & Kitchen,Mixer Grinder,2,3250.0,0.1,5850.0,1102.9,34,Female,Debit Card,3,3.0
+ORD1475,2024-07-24,South,Sports,Cricket Bat,2,2380.0,0.15,4046.0,758.41,40,Male,UPI,3,5.0
+ORD1476,2024-07-25,South,Clothing,T-Shirt,3,680.0,0.05,1938.0,626.42,24,Female,Net Banking,3,3.0
+ORD1477,2024-07-26,East,Sports,Cricket Bat,2,2300.0,0.0,4600.0,1463.59,38,Female,Net Banking,6,5.0
+ORD1478,2024-07-26,North,Electronics,Smartwatch,2,8590.0,0.15,14603.0,613.16,44,Male,Credit Card,3,5.0
+ORD1479,2024-07-26,West,Clothing,Jacket,5,3490.0,0.0,17450.0,6674.83,34,Male,Cash on Delivery,3,4.0
+ORD1480,2024-07-27,West,Clothing,Jacket,2,3590.0,0.05,6821.0,1845.85,26,Male,UPI,4,5.0
+ORD1481,2024-07-27,West,Clothing,Jeans,4,1740.0,0.1,6264.0,1747.8,18,Male,Credit Card,7,4.0
+ORD1482,2024-07-27,West,Sports,Football,2,920.0,0.1,1656.0,386.95,21,Male,Cash on Delivery,6,4.0
+ORD1483,2024-07-28,Central,Electronics,Headphones,2,2890.0,0.05,5491.0,405.25,45,Male,Credit Card,5,4.0
+ORD1484,2024-07-28,South,Sports,Cricket Bat,1,2420.0,0.0,2420.0,655.32,41,Female,Cash on Delivery,3,4.0
+ORD1485,2024-07-28,South,Clothing,Jeans,5,1930.0,0.15,8202.5,2066.64,25,Male,Cash on Delivery,5,4.0
+ORD1486,2024-07-28,South,Books,Cookbook,4,590.0,0.0,2360.0,721.76,37,Male,Credit Card,4,4.0
+ORD1487,2024-07-29,North,Electronics,Laptop,1,50550.0,0.0,50550.0,4493.01,24,Female,Debit Card,2,5.0
+ORD1488,2024-07-29,South,Home & Kitchen,Air Fryer,2,6090.0,0.1,10962.0,1938.81,25,Male,UPI,3,4.0
+ORD1489,2024-07-29,South,Clothing,Jeans,3,1820.0,0.1,4914.0,1609.5,41,Male,UPI,3,5.0
+ORD1490,2024-07-31,South,Clothing,Jacket,5,3510.0,0.1,15795.0,4939.8,31,Male,Debit Card,7,3.0
+ORD1491,2024-08-01,West,Home & Kitchen,Air Fryer,2,5800.0,0.0,11600.0,3102.66,18,Female,Cash on Delivery,5,5.0
+ORD1492,2024-08-01,North,Electronics,Headphones,1,2970.0,0.3,2079.0,-133.58,43,Female,Cash on Delivery,3,4.0
+ORD1493,2024-08-01,South,Home & Kitchen,Bedsheet Set,2,1530.0,0.15,2601.0,331.27,36,Female,UPI,5,4.0
+ORD1494,2024-08-02,Central,Home & Kitchen,Cookware Set,1,2410.0,0.0,2410.0,683.61,34,Female,Debit Card,5,3.0
+ORD1495,2024-08-02,Central,Clothing,Sneakers,3,2630.0,0.15,6706.5,2026.16,32,Female,UPI,7,3.0
+ORD1496,2024-08-02,West,Books,Cookbook,4,560.0,0.0,2240.0,596.2,31,Female,Cash on Delivery,4,4.0
+ORD1497,2024-08-02,East,Books,Cookbook,2,630.0,0.15,1071.0,230.15,34,Male,Credit Card,6,3.0
+ORD1498,2024-08-03,North,Home & Kitchen,Cookware Set,1,2560.0,0.05,2432.0,479.01,30,Male,UPI,5,4.0
+ORD1499,2024-08-03,South,Electronics,Smartphone,2,22870.0,0.2,36592.0,1272.09,30,Female,Credit Card,2,5.0
+ORD1500,2024-08-03,East,Sports,Cricket Bat,1,2160.0,0.0,2160.0,591.83,24,Female,Cash on Delivery,4,5.0
+ORD1501,2024-08-04,East,Clothing,Jeans,4,1860.0,0.1,6696.0,2036.6,39,Male,Credit Card,4,4.0
+ORD1502,2024-08-04,West,Clothing,Jacket,2,3580.0,0.1,6444.0,1893.36,27,Female,Debit Card,3,4.0
+ORD1503,2024-08-05,Central,Sports,Yoga Mat,1,820.0,0.05,779.0,203.16,34,Male,Credit Card,6,4.0
+ORD1504,2024-08-06,Central,Books,Textbook,1,910.0,0.0,910.0,289.14,18,Male,UPI,4,5.0
+ORD1505,2024-08-06,North,Clothing,Sneakers,1,2920.0,0.15,2482.0,621.35,40,Female,UPI,6,3.0
+ORD1506,2024-08-07,South,Clothing,Sneakers,4,2930.0,0.05,11134.0,3367.24,30,Male,Cash on Delivery,2,4.0
+ORD1507,2024-08-08,North,Home & Kitchen,Bedsheet Set,2,1570.0,0.0,3140.0,740.05,38,Female,UPI,4,3.0
+ORD1508,2024-08-08,North,Electronics,Smartwatch,1,8060.0,0.15,6851.0,319.13,28,Female,Credit Card,3,4.0
+ORD1509,2024-08-08,South,Clothing,Sneakers,1,2970.0,0.15,2524.5,641.79,38,Female,UPI,3,4.0
+ORD1510,2024-08-09,West,Books,Comic,4,240.0,0.1,864.0,216.3,42,Male,Credit Card,7,3.0
+ORD1511,2024-08-09,West,Clothing,Jacket,2,3420.0,0.1,6156.0,2059.95,26,Female,Debit Card,1,5.0
+ORD1512,2024-08-09,North,Clothing,Jeans,4,1770.0,0.05,6726.0,2136.0,25,Female,Credit Card,4,4.0
+ORD1513,2024-08-10,South,Electronics,Headphones,1,3230.0,0.15,2745.5,158.17,35,Female,Debit Card,4,4.0
+ORD1514,2024-08-11,North,Electronics,Headphones,1,2890.0,0.1,2601.0,224.39,20,Male,Credit Card,3,3.0
+ORD1515,2024-08-11,West,Home & Kitchen,Air Fryer,2,6050.0,0.0,12100.0,3586.36,22,Female,Cash on Delivery,5,5.0
+ORD1516,2024-08-12,East,Books,Cookbook,4,620.0,0.0,2480.0,783.99,37,Male,Debit Card,7,3.0
+ORD1517,2024-08-12,South,Books,Textbook,3,930.0,0.0,2790.0,715.62,36,Female,Debit Card,3,5.0
+ORD1518,2024-08-12,East,Books,Novel,4,340.0,0.3,952.0,72.7,36,Female,Credit Card,2,4.0
+ORD1519,2024-08-12,East,Clothing,T-Shirt,5,720.0,0.0,3600.0,1214.81,31,Female,Net Banking,5,4.0
+ORD1520,2024-08-13,South,Electronics,Smartphone,1,26050.0,0.2,20840.0,-1600.46,39,Female,Credit Card,3,4.0
+ORD1521,2024-08-13,North,Clothing,Sneakers,2,2860.0,0.0,5720.0,2100.99,23,Male,Debit Card,4,4.0
+ORD1522,2024-08-13,South,Clothing,Jacket,3,3250.0,0.0,9750.0,3655.81,39,Female,Credit Card,5,5.0
+ORD1523,2024-08-14,West,Electronics,Laptop,1,53200.0,0.15,45220.0,1302.9,48,Female,Cash on Delivery,4,5.0
+ORD1524,2024-08-15,South,Electronics,Laptop,2,54110.0,0.2,86576.0,-2116.7,28,Male,Credit Card,2,4.0
+ORD1525,2024-08-15,North,Electronics,Headphones,1,2970.0,0.05,2821.5,349.7,32,Female,UPI,2,4.0
+ORD1526,2024-08-15,West,Books,Cookbook,5,620.0,0.2,2480.0,397.9,42,Male,Credit Card,5,5.0
+ORD1527,2024-08-15,East,Books,Novel,3,330.0,0.0,990.0,301.36,24,Female,UPI,7,4.0
+ORD1528,2024-08-16,South,Electronics,Smartwatch,1,8310.0,0.3,5817.0,-682.65,31,Male,UPI,4,5.0
+ORD1529,2024-08-16,South,Clothing,Sneakers,5,2800.0,0.05,13300.0,4066.71,18,Female,Debit Card,5,5.0
+ORD1530,2024-08-17,North,Books,Novel,5,350.0,0.05,1662.5,376.05,52,Female,Debit Card,4,3.0
+ORD1531,2024-08-18,North,Home & Kitchen,Bedsheet Set,2,1680.0,0.0,3360.0,990.75,47,Female,UPI,6,3.0
+ORD1532,2024-08-19,Central,Electronics,Laptop,1,50800.0,0.2,40640.0,-177.59,30,Female,Credit Card,7,4.0
+ORD1533,2024-08-19,North,Home & Kitchen,Bedsheet Set,1,1430.0,0.1,1287.0,301.05,18,Male,Debit Card,3,5.0
+ORD1534,2024-08-19,West,Sports,Dumbbell Set,1,2410.0,0.0,2410.0,687.58,24,Male,Credit Card,4,3.0
+ORD1535,2024-08-19,East,Clothing,Sneakers,3,2650.0,0.1,7155.0,2104.2,31,Male,Debit Card,4,4.0
+ORD1536,2024-08-20,South,Books,Cookbook,4,670.0,0.2,2144.0,428.83,32,Female,Credit Card,4,4.0
+ORD1537,2024-08-20,North,Home & Kitchen,Air Fryer,2,5960.0,0.15,10132.0,1545.66,34,Male,Net Banking,5,4.0
+ORD1538,2024-08-21,South,Books,Textbook,4,930.0,0.2,2976.0,608.83,34,Female,Credit Card,3,3.0
+ORD1539,2024-08-21,South,Books,Novel,4,350.0,0.1,1260.0,292.39,43,Female,UPI,5,4.0
+ORD1540,2024-08-22,South,Home & Kitchen,Air Fryer,2,6170.0,0.0,12340.0,3392.41,39,Female,UPI,3,3.0
+ORD1541,2024-08-22,Central,Clothing,Jeans,2,1920.0,0.1,3456.0,982.52,34,Female,UPI,5,4.0
+ORD1542,2024-08-23,East,Clothing,T-Shirt,3,680.0,0.1,1836.0,538.8,41,Female,Debit Card,8,5.0
+ORD1543,2024-08-24,North,Clothing,Jacket,4,3340.0,0.1,12024.0,3675.37,34,Female,Credit Card,3,2.0
+ORD1544,2024-08-24,Central,Clothing,Jacket,1,3520.0,0.0,3520.0,1190.13,22,Female,Credit Card,3,5.0
+ORD1545,2024-08-27,Central,Home & Kitchen,Cookware Set,2,2630.0,0.2,4208.0,829.75,30,Female,UPI,4,4.0
+ORD1546,2024-08-29,South,Sports,Cricket Bat,1,2090.0,0.05,1985.5,570.77,28,Female,UPI,3,3.0
+ORD1547,2024-08-29,West,Sports,Yoga Mat,2,730.0,0.05,1387.0,317.67,43,Female,Net Banking,4,5.0
+ORD1548,2024-08-29,North,Electronics,Smartwatch,2,8330.0,0.05,15827.0,879.7,40,Female,Cash on Delivery,6,4.0
+ORD1549,2024-08-29,North,Sports,Dumbbell Set,1,2670.0,0.0,2670.0,847.1,30,Female,UPI,5,4.0
+ORD1550,2024-08-29,West,Clothing,T-Shirt,4,690.0,0.0,2760.0,942.1,39,Female,UPI,4,3.0
+ORD1551,2024-08-29,East,Clothing,Sneakers,1,3010.0,0.0,3010.0,1187.16,36,Male,Debit Card,7,4.0
+ORD1552,2024-08-30,South,Clothing,T-Shirt,1,670.0,0.05,636.5,251.3,54,Female,Debit Card,2,5.0
+ORD1553,2024-08-30,Central,Electronics,Smartwatch,2,8410.0,0.05,15979.0,1599.52,26,Female,UPI,7,4.0
+ORD1554,2024-08-30,North,Electronics,Headphones,1,2800.0,0.1,2520.0,179.63,36,Male,Cash on Delivery,6,4.0
+ORD1555,2024-08-30,South,Home & Kitchen,Air Fryer,1,5960.0,0.1,5364.0,1009.9,29,Female,Net Banking,5,3.0
+ORD1556,2024-08-30,South,Clothing,Jacket,1,3570.0,0.1,3213.0,968.7,22,Female,Credit Card,4,4.0
+ORD1557,2024-08-30,North,Clothing,Jacket,5,3720.0,0.0,18600.0,6043.34,25,Male,UPI,3,4.0
+ORD1558,2024-08-31,North,Home & Kitchen,Mixer Grinder,1,3440.0,0.0,3440.0,877.3,28,Female,Credit Card,4,4.0
+ORD1559,2024-09-01,West,Sports,Yoga Mat,1,770.0,0.0,770.0,213.62,38,Female,UPI,6,3.0
+ORD1560,2024-09-01,North,Clothing,Sneakers,5,2820.0,0.1,12690.0,3580.24,42,Male,Debit Card,5,4.0
+ORD1561,2024-09-02,West,Clothing,Sneakers,5,2860.0,0.0,14300.0,5149.38,57,Female,UPI,3,4.0
+ORD1562,2024-09-03,West,Clothing,Jacket,2,3580.0,0.05,6802.0,1942.73,20,Male,UPI,4,4.0
+ORD1563,2024-09-03,West,Clothing,Jacket,2,3630.0,0.05,6897.0,2514.52,18,Female,Debit Card,2,5.0
+ORD1564,2024-09-03,South,Clothing,Jeans,1,1600.0,0.15,1360.0,352.88,53,Female,Credit Card,6,5.0
+ORD1565,2024-09-04,Central,Electronics,Headphones,1,3090.0,0.0,3090.0,276.98,22,Male,Credit Card,6,4.0
+ORD1566,2024-09-05,West,Electronics,Headphones,2,3060.0,0.3,4284.0,-261.66,34,Male,Debit Card,3,4.0
+ORD1567,2024-09-05,West,Books,Cookbook,5,630.0,0.3,2205.0,241.35,38,Male,Debit Card,4,5.0
+ORD1568,2024-09-05,West,Home & Kitchen,Cookware Set,1,2460.0,0.1,2214.0,336.79,38,Male,Debit Card,3,3.0
+ORD1569,2024-09-06,Central,Books,Novel,3,370.0,0.3,777.0,117.93,48,Male,Net Banking,6,4.0
+ORD1570,2024-09-06,North,Sports,Cricket Bat,2,2130.0,0.0,4260.0,1434.0,44,Female,UPI,4,4.0
+ORD1571,2024-09-06,East,Sports,Yoga Mat,2,760.0,0.1,1368.0,304.9,46,Male,UPI,6,4.0
+ORD1572,2024-09-06,Central,Clothing,Jeans,1,1750.0,0.0,1750.0,589.53,45,Female,Credit Card,6,4.0
+ORD1573,2024-09-06,East,Books,Textbook,2,920.0,0.2,1472.0,240.26,18,Male,Credit Card,6,2.0
+ORD1574,2024-09-07,North,Home & Kitchen,Cookware Set,2,2480.0,0.3,3472.0,195.17,40,Female,Credit Card,5,4.0
+ORD1575,2024-09-09,North,Home & Kitchen,Air Fryer,2,5880.0,0.3,8232.0,-55.4,30,Male,Debit Card,4,4.0
+ORD1576,2024-09-09,North,Sports,Football,2,950.0,0.15,1615.0,304.54,22,Female,UPI,3,4.0
+ORD1577,2024-09-10,South,Home & Kitchen,Bedsheet Set,1,1520.0,0.0,1520.0,399.16,36,Female,UPI,2,3.0
+ORD1578,2024-09-10,North,Electronics,Headphones,1,3150.0,0.05,2992.5,92.23,47,Male,UPI,5,3.0
+ORD1579,2024-09-10,South,Books,Comic,2,240.0,0.05,456.0,116.85,32,Male,Net Banking,5,5.0
+ORD1580,2024-09-11,North,Electronics,Laptop,2,54980.0,0.05,104462.0,6734.84,48,Male,UPI,5,4.0
+ORD1581,2024-09-11,North,Home & Kitchen,Cookware Set,2,2520.0,0.05,4788.0,1300.98,18,Male,UPI,3,3.0
+ORD1582,2024-09-12,North,Clothing,Jacket,4,3450.0,0.2,11040.0,2686.38,25,Male,Credit Card,4,4.0
+ORD1583,2024-09-13,East,Home & Kitchen,Bedsheet Set,2,1480.0,0.05,2812.0,498.63,43,Male,UPI,6,5.0
+ORD1584,2024-09-13,North,Electronics,Laptop,1,57630.0,0.05,54748.5,5730.38,29,Male,Credit Card,5,3.0
+ORD1585,2024-09-13,North,Home & Kitchen,Bedsheet Set,1,1420.0,0.15,1207.0,216.02,42,Male,UPI,4,4.0
+ORD1586,2024-09-13,North,Books,Novel,2,340.0,0.3,476.0,45.26,31,Female,Cash on Delivery,5,4.0
+ORD1587,2024-09-13,South,Sports,Dumbbell Set,1,2540.0,0.15,2159.0,339.31,19,Male,Credit Card,3,3.0
+ORD1588,2024-09-14,South,Home & Kitchen,Mixer Grinder,2,3490.0,0.0,6980.0,2270.12,38,Male,Debit Card,4,3.0
+ORD1589,2024-09-14,North,Clothing,Jeans,4,1790.0,0.15,6086.0,1804.14,18,Female,Debit Card,4,3.0
+ORD1590,2024-09-14,North,Home & Kitchen,Air Fryer,2,5740.0,0.1,10332.0,1863.38,50,Male,UPI,4,3.0
+ORD1591,2024-09-14,North,Clothing,Sneakers,4,2920.0,0.1,10512.0,2920.8,42,Female,Credit Card,3,5.0
+ORD1592,2024-09-14,West,Books,Novel,2,350.0,0.0,700.0,232.28,28,Female,Credit Card,4,4.0
+ORD1593,2024-09-14,Central,Sports,Football,1,860.0,0.1,774.0,190.43,34,Male,Cash on Delivery,6,4.0
+ORD1594,2024-09-15,North,Home & Kitchen,Air Fryer,2,5890.0,0.0,11780.0,2771.76,50,Female,Debit Card,4,4.0
+ORD1595,2024-09-15,Central,Home & Kitchen,Bedsheet Set,2,1510.0,0.3,2114.0,190.03,32,Male,UPI,5,4.0
+ORD1596,2024-09-16,North,Books,Cookbook,5,610.0,0.1,2745.0,591.27,18,Male,UPI,4,3.0
+ORD1597,2024-09-16,Central,Home & Kitchen,Mixer Grinder,1,3180.0,0.0,3180.0,740.38,34,Female,Debit Card,4,4.0
+ORD1598,2024-09-16,South,Home & Kitchen,Air Fryer,1,6110.0,0.2,4888.0,600.92,32,Male,Credit Card,3,4.0
+ORD1599,2024-09-16,North,Sports,Yoga Mat,2,790.0,0.15,1343.0,312.34,30,Female,Credit Card,6,5.0
+ORD1600,2024-09-16,West,Clothing,Jacket,4,3490.0,0.1,12564.0,3720.53,31,Male,UPI,3,5.0
+ORD1601,2024-09-18,West,Electronics,Smartwatch,2,8030.0,0.0,16060.0,1645.26,37,Female,UPI,5,4.0
+ORD1602,2024-09-18,West,Clothing,Jacket,2,3360.0,0.15,5712.0,1456.71,36,Male,Credit Card,4,4.0
+ORD1603,2024-09-18,West,Clothing,Jacket,3,3490.0,0.05,9946.5,3082.07,31,Female,Credit Card,5,4.0
+ORD1604,2024-09-19,West,Electronics,Headphones,2,3070.0,0.15,5219.0,345.9,25,Female,Debit Card,3,4.0
+ORD1605,2024-09-19,North,Home & Kitchen,Bedsheet Set,2,1500.0,0.0,3000.0,649.06,34,Male,UPI,5,5.0
+ORD1606,2024-09-19,West,Books,Cookbook,4,600.0,0.1,2160.0,510.24,26,Female,UPI,4,3.0
+ORD1607,2024-09-20,West,Electronics,Smartwatch,1,7540.0,0.15,6409.0,501.66,32,Female,Credit Card,4,4.0
+ORD1608,2024-09-20,West,Home & Kitchen,Air Fryer,1,5980.0,0.0,5980.0,1382.26,32,Female,Cash on Delivery,5,4.0
+ORD1609,2024-09-21,Central,Clothing,Jeans,3,1670.0,0.05,4759.5,1430.81,38,Male,UPI,3,4.0
+ORD1610,2024-09-21,West,Clothing,Jeans,2,1710.0,0.0,3420.0,1191.05,20,Female,Debit Card,2,4.0
+ORD1611,2024-09-22,South,Electronics,Smartwatch,2,7960.0,0.2,12736.0,-185.31,18,Female,Debit Card,5,4.0
+ORD1612,2024-09-22,Central,Home & Kitchen,Cookware Set,1,2590.0,0.3,1813.0,75.66,22,Female,Net Banking,4,5.0
+ORD1613,2024-09-23,North,Sports,Dumbbell Set,1,2440.0,0.05,2318.0,702.88,32,Male,Credit Card,3,3.0
+ORD1614,2024-09-23,North,Home & Kitchen,Mixer Grinder,1,3120.0,0.0,3120.0,812.72,37,Female,UPI,5,5.0
+ORD1615,2024-09-23,South,Clothing,Jeans,4,1870.0,0.1,6732.0,1756.57,26,Female,Cash on Delivery,2,3.0
+ORD1616,2024-09-25,South,Sports,Dumbbell Set,2,2430.0,0.15,4131.0,744.59,27,Male,Credit Card,4,4.0
+ORD1617,2024-09-25,North,Books,Comic,5,260.0,0.15,1105.0,206.12,25,Female,UPI,4,4.0
+ORD1618,2024-09-25,North,Electronics,Smartwatch,1,7610.0,0.05,7229.5,661.49,22,Male,Debit Card,4,3.0
+ORD1619,2024-09-26,West,Clothing,Jacket,2,3540.0,0.0,7080.0,2593.54,40,Male,UPI,5,4.0
+ORD1620,2024-09-27,North,Books,Textbook,2,840.0,0.15,1428.0,317.92,47,Female,Credit Card,5,4.0
+ORD1621,2024-09-27,South,Clothing,Jacket,3,3450.0,0.0,10350.0,3554.04,53,Male,Net Banking,2,4.0
+ORD1622,2024-09-27,East,Books,Novel,2,360.0,0.1,648.0,151.81,19,Female,Cash on Delivery,3,4.0
+ORD1623,2024-09-28,West,Clothing,Jacket,5,3430.0,0.3,12005.0,2162.62,18,Female,Debit Card,4,3.0
+ORD1624,2024-09-28,Central,Electronics,Laptop,1,57720.0,0.05,54834.0,2336.39,24,Male,UPI,4,4.0
+ORD1625,2024-09-28,West,Electronics,Headphones,1,2920.0,0.0,2920.0,355.4,19,Female,Net Banking,2,3.0
+ORD1626,2024-09-29,Central,Home & Kitchen,Air Fryer,2,5930.0,0.2,9488.0,1230.35,21,Female,Cash on Delivery,8,4.0
+ORD1627,2024-09-30,South,Sports,Yoga Mat,1,770.0,0.0,770.0,207.71,33,Male,Net Banking,2,5.0
+ORD1628,2024-10-01,North,Sports,Dumbbell Set,1,2530.0,0.05,2403.5,591.99,31,Female,Cash on Delivery,2,3.0
+ORD1629,2024-10-01,Central,Clothing,Jacket,5,3390.0,0.15000000000000002,14407.5,4060.49,33,Male,Credit Card,3,4.0
+ORD1630,2024-10-01,West,Clothing,Jacket,1,3560.0,0.15000000000000002,3026.0,752.68,26,Female,Net Banking,6,5.0
+ORD1631,2024-10-01,South,Sports,Cricket Bat,1,2250.0,0.35,1462.5,163.03,28,Female,UPI,1,4.0
+ORD1632,2024-10-02,West,Clothing,T-Shirt,3,690.0,0.15000000000000002,1759.5,480.64,27,Male,Debit Card,3,4.0
+ORD1633,2024-10-02,North,Sports,Dumbbell Set,2,2480.0,0.05,4712.0,1420.89,43,Male,UPI,5,4.0
+ORD1634,2024-10-02,South,Electronics,Headphones,2,3080.0,0.1,5544.0,453.41,22,Female,Cash on Delivery,3,4.0
+ORD1635,2024-10-02,North,Electronics,Laptop,2,53920.0,0.1,97056.0,-1034.14,18,Male,Cash on Delivery,5,3.0
+ORD1636,2024-10-02,South,Clothing,Sneakers,1,2720.0,0.15000000000000002,2312.0,546.3,18,Male,Debit Card,3,4.0
+ORD1637,2024-10-02,South,Clothing,Jacket,5,3510.0,0.1,15795.0,5692.08,34,Female,UPI,1,4.0
+ORD1638,2024-10-02,West,Clothing,Sneakers,4,2730.0,0.15000000000000002,9282.0,2097.63,29,Male,UPI,4,5.0
+ORD1639,2024-10-03,South,Home & Kitchen,Bedsheet Set,1,1510.0,0.05,1434.5,308.18,34,Male,UPI,2,4.0
+ORD1640,2024-10-03,West,Sports,Yoga Mat,1,820.0,0.05,779.0,163.23,32,Female,UPI,2,4.0
+ORD1641,2024-10-03,West,Books,Cookbook,2,660.0,0.1,1188.0,288.41,19,Female,Debit Card,5,4.0
+ORD1642,2024-10-03,West,Sports,Yoga Mat,1,820.0,0.25,615.0,91.02,32,Male,Credit Card,5,4.0
+ORD1643,2024-10-03,West,Clothing,Jacket,4,3510.0,0.1,12636.0,3918.99,33,Female,Debit Card,2,4.0
+ORD1644,2024-10-04,Central,Clothing,Jacket,3,3240.0,0.35,6318.0,911.68,25,Female,Debit Card,4,3.0
+ORD1645,2024-10-04,South,Clothing,T-Shirt,1,730.0,0.05,693.5,165.61,26,Male,Debit Card,5,5.0
+ORD1646,2024-10-05,West,Electronics,Smartwatch,2,8140.0,0.05,15466.0,1699.16,28,Female,UPI,5,4.0
+ORD1647,2024-10-05,North,Sports,Cricket Bat,1,2210.0,0.2,1768.0,220.94,31,Female,UPI,3,5.0
+ORD1648,2024-10-05,West,Books,Cookbook,1,660.0,0.15000000000000002,561.0,113.94,24,Male,Credit Card,3,4.0
+ORD1649,2024-10-05,West,Books,Novel,3,370.0,0.25,832.5,114.4,28,Female,Cash on Delivery,3,4.0
+ORD1650,2024-10-05,North,Clothing,Sneakers,5,2800.0,0.15000000000000002,11900.0,2601.85,28,Male,Cash on Delivery,5,4.0
+ORD1651,2024-10-06,South,Clothing,Jacket,5,3560.0,0.25,13350.0,3415.93,29,Male,Net Banking,2,4.0
+ORD1652,2024-10-06,East,Sports,Dumbbell Set,2,2460.0,0.1,4428.0,882.7,22,Male,Credit Card,4,5.0
+ORD1653,2024-10-06,West,Electronics,Smartphone,2,25500.0,0.2,40800.0,78.19,27,Female,Credit Card,2,4.0
+ORD1654,2024-10-06,West,Home & Kitchen,Air Fryer,1,5850.0,0.25,4387.5,575.53,22,Female,Cash on Delivery,5,4.0
+ORD1655,2024-10-06,South,Sports,Dumbbell Set,2,2560.0,0.05,4864.0,1433.9,35,Male,Cash on Delivery,1,4.0
+ORD1656,2024-10-06,North,Home & Kitchen,Cookware Set,1,2460.0,0.35,1599.0,64.51,25,Female,Cash on Delivery,3,3.0
+ORD1657,2024-10-06,West,Books,Textbook,4,880.0,0.1,3168.0,897.58,48,Male,Debit Card,2,3.0
+ORD1658,2024-10-07,West,Books,Comic,2,260.0,0.1,468.0,133.88,30,Male,UPI,3,3.0
+ORD1659,2024-10-07,North,Electronics,Smartphone,1,25200.0,0.05,23940.0,2919.68,18,Female,Net Banking,5,3.0
+ORD1660,2024-10-07,East,Clothing,Jacket,3,3410.0,0.15000000000000002,8695.5,2205.11,47,Male,Credit Card,4,5.0
+ORD1661,2024-10-08,North,Clothing,Jacket,4,3250.0,0.15000000000000002,11050.0,3074.78,23,Male,Credit Card,3,5.0
+ORD1662,2024-10-08,North,Sports,Football,1,900.0,0.05,855.0,204.37,27,Female,UPI,6,4.0
+ORD1663,2024-10-08,North,Clothing,Sneakers,4,2790.0,0.1,10044.0,2885.37,21,Male,UPI,4,4.0
+ORD1664,2024-10-08,West,Books,Comic,2,240.0,0.15000000000000002,408.0,50.99,40,Female,UPI,5,4.0
+ORD1665,2024-10-08,North,Home & Kitchen,Bedsheet Set,1,1450.0,0.25,1087.5,88.55,50,Female,Cash on Delivery,4,2.0
+ORD1666,2024-10-09,South,Books,Novel,4,350.0,0.15000000000000002,1190.0,240.48,43,Female,UPI,6,5.0
+ORD1667,2024-10-09,West,Electronics,Smartwatch,2,8390.0,0.1,15102.0,1522.44,30,Female,Debit Card,3,5.0
+ORD1668,2024-10-09,West,Sports,Yoga Mat,2,850.0,0.1,1530.0,346.01,34,Male,Cash on Delivery,3,3.0
+ORD1669,2024-10-10,South,Electronics,Laptop,1,58100.0,0.15000000000000002,49385.0,2095.54,36,Female,UPI,5,5.0
+ORD1670,2024-10-10,North,Clothing,Jeans,3,1770.0,0.15000000000000002,4513.5,1071.0,18,Female,Net Banking,6,5.0
+ORD1671,2024-10-10,West,Clothing,Jeans,5,1940.0,0.05,9215.0,2765.91,44,Female,Net Banking,5,4.0
+ORD1672,2024-10-10,East,Electronics,Laptop,1,53830.0,0.2,43064.0,1186.17,29,Female,UPI,5,4.0
+ORD1673,2024-10-10,South,Electronics,Smartphone,2,24890.0,0.05,47291.0,4290.35,18,Female,Credit Card,4,4.0
+ORD1674,2024-10-11,East,Clothing,Sneakers,2,2770.0,0.15000000000000002,4709.0,1391.21,53,Female,Cash on Delivery,7,5.0
+ORD1675,2024-10-11,East,Sports,Dumbbell Set,2,2680.0,0.2,4288.0,608.03,18,Female,Debit Card,7,4.0
+ORD1676,2024-10-11,East,Clothing,Sneakers,3,2830.0,0.25,6367.5,1363.41,34,Male,Debit Card,2,4.0
+ORD1677,2024-10-12,East,Electronics,Laptop,2,54120.0,0.15000000000000002,92004.0,1185.24,34,Female,UPI,5,3.0
+ORD1678,2024-10-12,North,Home & Kitchen,Mixer Grinder,2,3270.0,0.05,6213.0,1310.92,32,Female,Cash on Delivery,3,3.0
+ORD1679,2024-10-12,South,Electronics,Laptop,1,55390.0,0.2,44312.0,264.24,39,Male,UPI,4,5.0
+ORD1680,2024-10-12,West,Sports,Dumbbell Set,1,2610.0,0.35,1696.5,122.47,23,Female,UPI,2,3.0
+ORD1681,2024-10-12,Central,Clothing,Sneakers,3,2710.0,0.35,5284.5,628.03,18,Male,UPI,4,4.0
+ORD1682,2024-10-13,South,Clothing,T-Shirt,5,680.0,0.2,2720.0,702.42,26,Female,UPI,2,4.0
+ORD1683,2024-10-13,East,Clothing,T-Shirt,5,680.0,0.1,3060.0,782.33,21,Male,UPI,6,3.0
+ORD1684,2024-10-13,West,Electronics,Laptop,1,55170.0,0.05,52411.5,4003.41,37,Male,Credit Card,4,5.0
+ORD1685,2024-10-13,South,Electronics,Smartphone,1,25890.0,0.25,19417.5,-244.7,29,Male,Net Banking,5,5.0
+ORD1686,2024-10-13,North,Clothing,Jeans,2,1780.0,0.05,3382.0,984.25,27,Male,UPI,4,4.0
+ORD1687,2024-10-13,Central,Clothing,Jeans,5,1800.0,0.1,8100.0,2442.63,25,Female,UPI,4,5.0
+ORD1688,2024-10-15,Central,Home & Kitchen,Mixer Grinder,2,2990.0,0.05,5681.0,1246.12,29,Male,Credit Card,3,5.0
+ORD1689,2024-10-15,West,Electronics,Smartphone,1,23590.0,0.2,18872.0,1013.84,28,Female,Debit Card,2,4.0
+ORD1690,2024-10-15,South,Home & Kitchen,Bedsheet Set,1,1530.0,0.15000000000000002,1300.5,165.66,41,Male,UPI,4,4.0
+ORD1691,2024-10-15,West,Books,Novel,3,350.0,0.25,787.5,91.0,37,Female,Debit Card,4,3.0
+ORD1692,2024-10-16,West,Electronics,Smartwatch,2,7600.0,0.1,13680.0,1049.21,31,Female,UPI,7,4.0
+ORD1693,2024-10-16,South,Home & Kitchen,Mixer Grinder,2,3440.0,0.25,5160.0,454.19,44,Female,UPI,4,3.0
+ORD1694,2024-10-16,West,Books,Textbook,3,850.0,0.2,2040.0,356.75,32,Female,Credit Card,4,4.0
+ORD1695,2024-10-16,North,Electronics,Smartphone,1,25820.0,0.2,20656.0,1060.53,28,Female,Debit Card,4,4.0
+ORD1696,2024-10-16,South,Electronics,Smartwatch,2,7730.0,0.05,14687.0,2168.2,20,Female,Debit Card,4,4.0
+ORD1697,2024-10-16,North,Clothing,Sneakers,3,3030.0,0.1,8181.0,2391.62,33,Female,Net Banking,3,4.0
+ORD1698,2024-10-16,West,Home & Kitchen,Bedsheet Set,2,1580.0,0.05,3002.0,735.81,29,Male,Cash on Delivery,4,3.0
+ORD1699,2024-10-17,South,Clothing,T-Shirt,1,720.0,0.1,648.0,185.15,24,Male,Cash on Delivery,5,3.0
+ORD1700,2024-10-17,Central,Electronics,Smartwatch,2,7720.0,0.05,14668.0,1236.03,30,Female,UPI,6,4.0
+ORD1701,2024-10-17,North,Electronics,Laptop,2,51110.0,0.2,81776.0,-3171.2,18,Male,Debit Card,7,4.0
+ORD1702,2024-10-18,West,Home & Kitchen,Cookware Set,2,2530.0,0.15000000000000002,4301.0,634.47,20,Female,Credit Card,3,4.0
+ORD1703,2024-10-18,West,Electronics,Laptop,2,54720.0,0.25,82080.0,-2689.82,49,Female,UPI,5,4.0
+ORD1704,2024-10-19,Central,Clothing,Sneakers,2,2850.0,0.1,5130.0,1541.79,24,Male,UPI,5,4.0
+ORD1705,2024-10-19,South,Electronics,Smartphone,2,24200.0,0.05,45980.0,3752.07,32,Male,Cash on Delivery,4,4.0
+ORD1706,2024-10-19,North,Sports,Dumbbell Set,2,2450.0,0.15000000000000002,4165.0,608.83,35,Female,Credit Card,4,3.0
+ORD1707,2024-10-19,North,Home & Kitchen,Air Fryer,1,6100.0,0.35,3965.0,251.14,33,Male,UPI,5,4.0
+ORD1708,2024-10-19,North,Sports,Dumbbell Set,1,2410.0,0.15000000000000002,2048.5,391.93,18,Male,UPI,4,4.0
+ORD1709,2024-10-20,South,Books,Textbook,1,930.0,0.05,883.5,228.76,20,Male,Debit Card,4,4.0
+ORD1710,2024-10-20,North,Sports,Yoga Mat,1,750.0,0.05,712.5,179.01,34,Female,Cash on Delivery,4,4.0
+ORD1711,2024-10-20,West,Sports,Football,2,940.0,0.1,1692.0,358.93,34,Female,UPI,3,4.0
+ORD1712,2024-10-20,West,Clothing,Jacket,5,3360.0,0.2,13440.0,2381.64,32,Female,Debit Card,3,3.0
+ORD1713,2024-10-20,South,Books,Textbook,4,900.0,0.05,3420.0,1189.5,33,Male,Credit Card,5,4.0
+ORD1714,2024-10-20,West,Books,Novel,3,370.0,0.05,1054.5,277.9,42,Male,UPI,6,2.0
+ORD1715,2024-10-21,East,Books,Textbook,1,910.0,0.15000000000000002,773.5,196.39,32,Male,Net Banking,5,3.0
+ORD1716,2024-10-21,East,Books,Cookbook,5,630.0,0.15000000000000002,2677.5,678.29,30,Female,UPI,5,4.0
+ORD1717,2024-10-22,South,Home & Kitchen,Air Fryer,1,6260.0,0.1,5634.0,937.73,27,Male,Debit Card,2,4.0
+ORD1718,2024-10-22,East,Electronics,Smartwatch,1,8560.0,0.15000000000000002,7276.0,177.21,19,Female,Credit Card,8,3.0
+ORD1719,2024-10-22,South,Clothing,T-Shirt,5,730.0,0.05,3467.5,1187.91,36,Female,UPI,3,4.0
+ORD1720,2024-10-22,North,Home & Kitchen,Air Fryer,1,6120.0,0.2,4896.0,668.97,48,Female,Debit Card,4,4.0
+ORD1721,2024-10-23,East,Sports,Football,1,930.0,0.05,883.5,200.01,41,Female,Credit Card,5,4.0
+ORD1722,2024-10-23,Central,Clothing,Sneakers,3,2790.0,0.15000000000000002,7114.5,1683.68,18,Female,UPI,6,4.0
+ORD1723,2024-10-23,South,Clothing,Sneakers,1,2750.0,0.35,1787.5,326.67,37,Female,UPI,3,4.0
+ORD1724,2024-10-24,Central,Electronics,Headphones,2,2950.0,0.1,5310.0,246.53,41,Male,Debit Card,5,4.0
+ORD1725,2024-10-24,East,Clothing,T-Shirt,4,680.0,0.2,2176.0,487.87,28,Male,Debit Card,7,4.0
+ORD1726,2024-10-24,West,Books,Novel,4,360.0,0.15000000000000002,1224.0,279.94,39,Male,Debit Card,5,3.0
+ORD1727,2024-10-24,South,Home & Kitchen,Cookware Set,2,2660.0,0.25,3990.0,408.13,28,Female,UPI,4,4.0
+ORD1728,2024-10-24,West,Clothing,Sneakers,3,2910.0,0.05,8293.5,2436.14,37,Female,Credit Card,3,3.0
+ORD1729,2024-10-24,South,Electronics,Smartphone,2,25200.0,0.15000000000000002,42840.0,3816.05,40,Female,UPI,6,5.0
+ORD1730,2024-10-25,East,Books,Cookbook,3,570.0,0.1,1539.0,359.76,27,Male,UPI,8,3.0
+ORD1731,2024-10-25,West,Home & Kitchen,Cookware Set,2,2420.0,0.1,4356.0,871.77,39,Female,Credit Card,4,4.0
+ORD1732,2024-10-25,East,Home & Kitchen,Bedsheet Set,2,1460.0,0.25,2190.0,113.68,45,Male,UPI,5,5.0
+ORD1733,2024-10-26,West,Electronics,Laptop,1,57510.0,0.2,46008.0,-1498.35,39,Male,Debit Card,5,3.0
+ORD1734,2024-10-26,North,Sports,Yoga Mat,2,780.0,0.1,1404.0,237.02,26,Male,Net Banking,4,5.0
+ORD1735,2024-10-26,East,Sports,Yoga Mat,2,860.0,0.2,1376.0,143.49,41,Female,Cash on Delivery,5,3.0
+ORD1736,2024-10-26,North,Clothing,T-Shirt,3,700.0,0.15000000000000002,1785.0,427.81,33,Female,Cash on Delivery,4,5.0
+ORD1737,2024-10-26,West,Home & Kitchen,Mixer Grinder,1,3260.0,0.35,2119.0,73.13,50,Female,Credit Card,4,5.0
+ORD1738,2024-10-26,South,Sports,Dumbbell Set,1,2500.0,0.2,2000.0,383.03,42,Male,Credit Card,4,4.0
+ORD1739,2024-10-26,East,Home & Kitchen,Cookware Set,2,2300.0,0.15000000000000002,3910.0,624.43,36,Male,Debit Card,5,3.0
+ORD1740,2024-10-26,North,Electronics,Laptop,1,54500.0,0.15000000000000002,46325.0,1426.99,46,Male,UPI,6,4.0
+ORD1741,2024-10-26,North,Sports,Dumbbell Set,1,2390.0,0.25,1792.5,292.4,29,Female,Credit Card,4,4.0
+ORD1742,2024-10-27,West,Electronics,Smartphone,2,24840.0,0.2,39744.0,810.07,28,Female,Cash on Delivery,4,3.0
+ORD1743,2024-10-27,West,Home & Kitchen,Mixer Grinder,2,3130.0,0.15000000000000002,5321.0,1132.45,41,Female,Cash on Delivery,3,4.0
+ORD1744,2024-10-27,North,Home & Kitchen,Cookware Set,2,2510.0,0.1,4518.0,885.62,24,Female,Net Banking,4,4.0
+ORD1745,2024-10-27,South,Electronics,Smartphone,1,27470.0,0.15000000000000002,23349.5,-408.35,37,Female,UPI,1,5.0
+ORD1746,2024-10-28,East,Clothing,Jeans,3,1770.0,0.15000000000000002,4513.5,1076.1,25,Male,UPI,4,4.0
+ORD1747,2024-10-28,East,Clothing,Jacket,3,3430.0,0.15000000000000002,8746.5,2118.51,29,Male,Cash on Delivery,5,5.0
+ORD1748,2024-10-29,North,Electronics,Laptop,2,57920.0,0.15000000000000002,98464.0,2222.49,26,Male,UPI,5,4.0
+ORD1749,2024-10-29,South,Books,Cookbook,3,590.0,0.2,1416.0,245.33,31,Female,UPI,3,4.0
+ORD1750,2024-10-29,North,Sports,Yoga Mat,2,790.0,0.15000000000000002,1343.0,207.99,28,Female,Debit Card,4,4.0
+ORD1751,2024-10-29,West,Electronics,Laptop,1,53770.0,0.25,40327.5,-202.1,33,Female,UPI,4,3.0
+ORD1752,2024-10-30,South,Home & Kitchen,Cookware Set,1,2470.0,0.2,1976.0,314.07,37,Female,Cash on Delivery,4,3.0
+ORD1753,2024-10-30,North,Electronics,Headphones,2,2820.0,0.15000000000000002,4794.0,-53.19,22,Male,Debit Card,4,3.0
+ORD1754,2024-10-30,West,Sports,Dumbbell Set,2,2550.0,0.2,4080.0,849.97,38,Female,UPI,5,4.0
+ORD1755,2024-10-30,Central,Electronics,Smartwatch,1,8170.0,0.05,7761.5,1037.97,46,Male,UPI,6,5.0
+ORD1756,2024-10-30,North,Electronics,Headphones,2,2950.0,0.35,3835.0,-321.54,49,Male,Credit Card,4,4.0
+ORD1757,2024-10-30,Central,Home & Kitchen,Bedsheet Set,2,1550.0,0.1,2790.0,526.22,18,Male,UPI,5,4.0
+ORD1758,2024-10-30,South,Electronics,Smartwatch,2,7800.0,0.25,11700.0,-189.46,38,Male,UPI,3,4.0
+ORD1759,2024-10-31,Central,Books,Novel,2,340.0,0.05,646.0,195.19,36,Male,UPI,4,3.0
+ORD1760,2024-10-31,East,Books,Cookbook,3,550.0,0.05,1567.5,389.09,27,Female,Net Banking,5,4.0
+ORD1761,2024-11-01,East,Clothing,T-Shirt,1,710.0,0.15000000000000002,603.5,172.17,43,Male,Credit Card,5,3.0
+ORD1762,2024-11-01,South,Home & Kitchen,Mixer Grinder,1,3130.0,0.1,2817.0,540.74,44,Female,Credit Card,3,4.0
+ORD1763,2024-11-01,South,Electronics,Smartphone,2,25120.0,0.05,47728.0,3759.32,27,Male,UPI,4,3.0
+ORD1764,2024-11-01,Central,Electronics,Laptop,2,55200.0,0.35,71760.0,-2824.48,30,Female,UPI,7,3.0
+ORD1765,2024-11-01,South,Books,Textbook,2,910.0,0.2,1456.0,251.38,29,Female,UPI,3,5.0
+ORD1766,2024-11-02,North,Clothing,Jacket,1,3430.0,0.15000000000000002,2915.5,680.13,44,Female,Credit Card,2,5.0
+ORD1767,2024-11-02,Central,Electronics,Smartphone,1,26050.0,0.15000000000000002,22142.5,599.51,23,Male,UPI,3,5.0
+ORD1768,2024-11-02,South,Electronics,Headphones,1,3030.0,0.25,2272.5,-151.49,23,Female,UPI,2,4.0
+ORD1769,2024-11-02,West,Electronics,Smartphone,2,24620.0,0.35,32006.0,-2847.22,44,Female,UPI,5,4.0
+ORD1770,2024-11-02,Central,Home & Kitchen,Mixer Grinder,1,3590.0,0.05,3410.5,868.47,35,Female,Cash on Delivery,5,4.0
+ORD1771,2024-11-02,Central,Electronics,Laptop,2,54070.0,0.05,102733.0,3923.48,21,Female,Net Banking,7,5.0
+ORD1772,2024-11-02,West,Home & Kitchen,Mixer Grinder,1,3110.0,0.35,2021.5,64.04,37,Male,Cash on Delivery,4,4.0
+ORD1773,2024-11-02,South,Home & Kitchen,Air Fryer,1,5890.0,0.1,5301.0,767.83,34,Female,Cash on Delivery,6,4.0
+ORD1774,2024-11-02,West,Home & Kitchen,Cookware Set,2,2660.0,0.25,3990.0,345.02,28,Female,Debit Card,4,5.0
+ORD1775,2024-11-02,East,Electronics,Laptop,2,51310.0,0.1,92358.0,5946.37,40,Female,Cash on Delivery,6,3.0
+ORD1776,2024-11-03,East,Clothing,Jeans,3,1730.0,0.05,4930.5,1932.37,24,Male,UPI,6,3.0
+ORD1777,2024-11-03,West,Home & Kitchen,Air Fryer,1,6060.0,0.2,4848.0,905.23,29,Female,Debit Card,2,5.0
+ORD1778,2024-11-03,North,Electronics,Smartwatch,2,8150.0,0.05,15485.0,2066.75,18,Male,Debit Card,6,4.0
+ORD1779,2024-11-03,North,Sports,Yoga Mat,1,790.0,0.05,750.5,164.98,42,Female,Cash on Delivery,6,4.0
+ORD1780,2024-11-03,East,Sports,Dumbbell Set,1,2580.0,0.35,1677.0,85.57,32,Female,Debit Card,6,4.0
+ORD1781,2024-11-03,South,Clothing,Sneakers,5,2790.0,0.05,13252.5,4634.51,39,Female,UPI,3,4.0
+ORD1782,2024-11-03,North,Clothing,Jacket,3,3480.0,0.05,9918.0,3240.29,48,Male,UPI,5,4.0
+ORD1783,2024-11-03,North,Sports,Football,1,860.0,0.05,817.0,207.05,28,Female,UPI,5,4.0
+ORD1784,2024-11-03,North,Sports,Dumbbell Set,2,2650.0,0.05,5035.0,1206.83,20,Female,Cash on Delivery,7,5.0
+ORD1785,2024-11-03,South,Books,Novel,3,360.0,0.15000000000000002,918.0,260.09,41,Male,UPI,5,3.0
+ORD1786,2024-11-03,North,Clothing,Sneakers,1,2880.0,0.15000000000000002,2448.0,727.48,37,Male,Credit Card,2,4.0
+ORD1787,2024-11-03,East,Home & Kitchen,Air Fryer,1,5600.0,0.35,3640.0,181.63,30,Male,UPI,3,3.0
+ORD1788,2024-11-04,West,Clothing,T-Shirt,5,680.0,0.1,3060.0,968.49,35,Female,Net Banking,5,5.0
+ORD1789,2024-11-04,South,Clothing,Jeans,4,1920.0,0.05,7296.0,2695.56,32,Male,Net Banking,5,3.0
+ORD1790,2024-11-04,West,Clothing,Sneakers,2,2740.0,0.15000000000000002,4658.0,1069.36,19,Female,UPI,4,4.0
+ORD1791,2024-11-04,South,Clothing,T-Shirt,1,700.0,0.05,665.0,206.14,46,Male,Credit Card,3,3.0
+ORD1792,2024-11-04,West,Clothing,Jacket,2,3380.0,0.2,5408.0,1345.17,39,Female,Credit Card,5,3.0
+ORD1793,2024-11-05,North,Electronics,Smartphone,2,25420.0,0.1,45756.0,3308.92,46,Female,UPI,3,5.0
+ORD1794,2024-11-06,North,Clothing,Sneakers,2,2770.0,0.35,3601.0,392.41,18,Female,UPI,1,4.0
+ORD1795,2024-11-06,East,Clothing,T-Shirt,3,660.0,0.1,1782.0,451.93,28,Female,UPI,7,3.0
+ORD1796,2024-11-06,South,Home & Kitchen,Mixer Grinder,2,3340.0,0.2,5344.0,610.65,45,Female,UPI,3,4.0
+ORD1797,2024-11-06,East,Clothing,Jeans,2,1780.0,0.2,2848.0,716.54,27,Female,Debit Card,5,4.0
+ORD1798,2024-11-06,South,Electronics,Smartwatch,1,8170.0,0.15000000000000002,6944.5,-234.09,40,Female,UPI,4,3.0
+ORD1799,2024-11-06,North,Home & Kitchen,Cookware Set,1,2490.0,0.05,2365.5,577.28,26,Male,UPI,6,4.0
+ORD1800,2024-11-07,Central,Clothing,Sneakers,4,2550.0,0.05,9690.0,3204.2,30,Male,UPI,3,3.0
+ORD1801,2024-11-07,West,Clothing,Sneakers,2,2720.0,0.05,5168.0,1428.23,29,Male,UPI,5,3.0
+ORD1802,2024-11-07,South,Electronics,Laptop,2,53010.0,0.15000000000000002,90117.0,646.05,34,Female,UPI,5,4.0
+ORD1803,2024-11-07,Central,Sports,Dumbbell Set,2,2450.0,0.15000000000000002,4165.0,867.74,30,Female,Credit Card,4,4.0
+ORD1804,2024-11-07,South,Electronics,Smartphone,1,25140.0,0.2,20112.0,-204.21,37,Female,Cash on Delivery,3,4.0
+ORD1805,2024-11-07,East,Home & Kitchen,Air Fryer,2,6180.0,0.05,11742.0,2075.12,41,Female,Net Banking,5,5.0
+ORD1806,2024-11-07,North,Clothing,Jeans,1,1730.0,0.05,1643.5,600.67,19,Male,Cash on Delivery,7,4.0
+ORD1807,2024-11-07,South,Clothing,Jeans,5,1760.0,0.15000000000000002,7480.0,1944.57,28,Male,UPI,3,4.0
+ORD1808,2024-11-08,East,Clothing,Sneakers,4,2770.0,0.05,10526.0,3943.24,24,Male,Credit Card,2,3.0
+ORD1809,2024-11-08,East,Electronics,Smartwatch,1,7430.0,0.05,7058.5,1051.76,24,Male,Credit Card,5,4.0
+ORD1810,2024-11-08,South,Clothing,T-Shirt,1,680.0,0.25,510.0,84.71,18,Male,UPI,4,3.0
+ORD1811,2024-11-08,North,Electronics,Laptop,2,54510.0,0.25,81765.0,-4925.58,28,Male,Debit Card,2,4.0
+ORD1812,2024-11-08,North,Clothing,Jacket,4,3560.0,0.15000000000000002,12104.0,3359.69,31,Male,Credit Card,4,3.0
+ORD1813,2024-11-08,North,Clothing,Jeans,2,1740.0,0.05,3306.0,1030.41,59,Male,Debit Card,6,4.0
+ORD1814,2024-11-09,South,Home & Kitchen,Mixer Grinder,2,3150.0,0.05,5985.0,1264.55,29,Male,Credit Card,4,4.0
+ORD1815,2024-11-09,South,Books,Textbook,1,960.0,0.05,912.0,260.1,33,Male,Debit Card,4,4.0
+ORD1816,2024-11-10,East,Sports,Football,1,940.0,0.05,893.0,269.37,43,Male,Net Banking,7,3.0
+ORD1817,2024-11-10,West,Sports,Football,1,850.0,0.15000000000000002,722.5,87.88,23,Female,Debit Card,4,4.0
+ORD1818,2024-11-10,North,Clothing,Jacket,4,3350.0,0.15000000000000002,11390.0,3110.01,38,Female,Credit Card,5,5.0
+ORD1819,2024-11-11,East,Books,Textbook,3,930.0,0.05,2650.5,668.71,46,Female,Credit Card,6,3.0
+ORD1820,2024-11-11,South,Clothing,Sneakers,4,2860.0,0.15000000000000002,9724.0,2690.51,18,Male,Credit Card,4,5.0
+ORD1821,2024-11-12,West,Clothing,T-Shirt,3,620.0,0.1,1674.0,449.93,24,Female,Credit Card,5,4.0
+ORD1822,2024-11-12,North,Sports,Dumbbell Set,2,2330.0,0.25,3495.0,527.35,26,Female,Net Banking,6,3.0
+ORD1823,2024-11-12,East,Sports,Dumbbell Set,2,2310.0,0.15000000000000002,3927.0,537.12,21,Male,UPI,6,5.0
+ORD1824,2024-11-13,North,Home & Kitchen,Air Fryer,2,6140.0,0.15000000000000002,10438.0,2154.39,18,Male,UPI,5,3.0
+ORD1825,2024-11-13,North,Electronics,Smartphone,2,23400.0,0.05,44460.0,5062.08,33,Female,Net Banking,3,5.0
+ORD1826,2024-11-13,South,Electronics,Smartphone,2,26240.0,0.2,41984.0,-173.45,34,Female,Net Banking,3,4.0
+ORD1827,2024-11-13,South,Electronics,Laptop,2,53450.0,0.35,69485.0,-8118.81,24,Male,UPI,6,3.0
+ORD1828,2024-11-14,South,Electronics,Smartphone,2,25820.0,0.15000000000000002,43894.0,988.89,26,Female,Debit Card,6,3.0
+ORD1829,2024-11-14,West,Clothing,T-Shirt,5,670.0,0.1,3015.0,775.41,31,Male,Credit Card,5,4.0
+ORD1830,2024-11-14,West,Books,Textbook,3,880.0,0.2,2112.0,231.53,49,Female,UPI,4,5.0
+ORD1831,2024-11-14,East,Sports,Yoga Mat,2,780.0,0.05,1482.0,398.43,30,Male,UPI,6,4.0
+ORD1832,2024-11-14,West,Sports,Dumbbell Set,2,2320.0,0.1,4176.0,946.64,32,Female,Credit Card,1,4.0
+ORD1833,2024-11-14,South,Home & Kitchen,Cookware Set,1,2580.0,0.25,1935.0,182.98,60,Male,UPI,6,4.0
+ORD1834,2024-11-15,South,Clothing,Jacket,5,3150.0,0.25,11812.5,2325.5,43,Male,Debit Card,2,3.0
+ORD1835,2024-11-15,East,Books,Textbook,2,940.0,0.2,1504.0,302.76,21,Female,Credit Card,4,4.0
+ORD1836,2024-11-15,West,Clothing,Sneakers,3,2750.0,0.05,7837.5,2335.63,43,Male,Cash on Delivery,5,5.0
+ORD1837,2024-11-15,North,Electronics,Laptop,2,55540.0,0.15000000000000002,94418.0,4300.32,44,Male,UPI,1,4.0
+ORD1838,2024-11-16,West,Electronics,Headphones,1,3010.0,0.1,2709.0,64.01,32,Male,Debit Card,4,4.0
+ORD1839,2024-11-16,West,Clothing,Jeans,1,1880.0,0.15000000000000002,1598.0,471.42,27,Male,Credit Card,6,4.0
+ORD1840,2024-11-16,North,Electronics,Laptop,1,55870.0,0.05,53076.5,4221.99,26,Male,Debit Card,6,3.0
+ORD1841,2024-11-16,South,Clothing,Sneakers,3,2820.0,0.25,6345.0,1413.58,39,Female,UPI,5,5.0
+ORD1842,2024-11-17,East,Clothing,Sneakers,4,2700.0,0.2,8640.0,1931.33,28,Female,UPI,8,3.0
+ORD1843,2024-11-17,North,Sports,Yoga Mat,2,790.0,0.05,1501.0,331.15,18,Male,Net Banking,4,4.0
+ORD1844,2024-11-17,Central,Home & Kitchen,Mixer Grinder,2,3340.0,0.05,6346.0,1670.47,43,Male,UPI,6,4.0
+ORD1845,2024-11-17,South,Clothing,Sneakers,1,2910.0,0.05,2764.5,794.55,37,Female,UPI,4,3.0
+ORD1846,2024-11-17,North,Clothing,Jeans,2,1760.0,0.25,2640.0,524.46,18,Male,Debit Card,5,4.0
+ORD1847,2024-11-17,North,Clothing,Sneakers,5,2770.0,0.2,11080.0,2029.33,39,Female,Debit Card,1,5.0
+ORD1848,2024-11-18,East,Electronics,Smartphone,1,23100.0,0.15000000000000002,19635.0,1027.54,27,Female,Credit Card,3,4.0
+ORD1849,2024-11-18,West,Sports,Football,2,940.0,0.1,1692.0,333.12,22,Male,Cash on Delivery,5,4.0
+ORD1850,2024-11-18,West,Sports,Yoga Mat,1,770.0,0.2,616.0,107.58,43,Male,Debit Card,1,3.0
+ORD1851,2024-11-18,South,Books,Comic,5,240.0,0.2,960.0,223.94,30,Male,Net Banking,5,3.0
+ORD1852,2024-11-18,East,Home & Kitchen,Bedsheet Set,2,1480.0,0.2,2368.0,267.56,19,Female,Credit Card,5,3.0
+ORD1853,2024-11-18,East,Electronics,Headphones,1,2850.0,0.2,2280.0,-37.47,35,Male,UPI,6,5.0
+ORD1854,2024-11-18,East,Electronics,Headphones,1,2990.0,0.2,2392.0,-57.29,18,Female,UPI,6,4.0
+ORD1855,2024-11-18,West,Sports,Dumbbell Set,1,2480.0,0.35,1612.0,15.0,37,Male,UPI,3,5.0
+ORD1856,2024-11-18,South,Clothing,Jeans,2,1840.0,0.15000000000000002,3128.0,870.67,18,Female,UPI,4,4.0
+ORD1857,2024-11-18,East,Sports,Cricket Bat,2,2110.0,0.05,4009.0,899.29,19,Female,UPI,7,5.0
+ORD1858,2024-11-19,Central,Clothing,T-Shirt,3,720.0,0.05,2052.0,662.46,24,Male,Debit Card,6,4.0
+ORD1859,2024-11-19,South,Clothing,Sneakers,2,2960.0,0.05,5624.0,1735.85,47,Female,UPI,3,5.0
+ORD1860,2024-11-19,North,Electronics,Smartphone,1,25050.0,0.1,22545.0,984.55,18,Female,UPI,4,4.0
+ORD1861,2024-11-19,South,Clothing,Sneakers,1,2860.0,0.15000000000000002,2431.0,647.06,18,Male,Debit Card,4,4.0
+ORD1862,2024-11-19,South,Clothing,T-Shirt,4,680.0,0.2,2176.0,441.07,37,Female,Credit Card,4,4.0
+ORD1863,2024-11-19,South,Home & Kitchen,Mixer Grinder,1,3210.0,0.05,3049.5,972.23,37,Male,Cash on Delivery,6,3.0
+ORD1864,2024-11-20,South,Books,Comic,4,250.0,0.1,900.0,237.92,25,Male,Debit Card,2,3.0
+ORD1865,2024-11-20,North,Sports,Football,2,860.0,0.05,1634.0,394.32,26,Female,UPI,7,4.0
+ORD1866,2024-11-20,South,Clothing,Jeans,2,1750.0,0.1,3150.0,881.95,30,Male,Credit Card,6,4.0
+ORD1867,2024-11-20,North,Electronics,Laptop,2,56690.0,0.1,102042.0,5061.99,33,Female,UPI,6,4.0
+ORD1868,2024-11-20,East,Home & Kitchen,Mixer Grinder,2,3140.0,0.2,5024.0,430.19,36,Male,UPI,6,3.0
+ORD1869,2024-11-21,South,Sports,Dumbbell Set,2,2480.0,0.15000000000000002,4216.0,917.18,33,Female,UPI,1,5.0
+ORD1870,2024-11-21,South,Books,Cookbook,4,620.0,0.1,2232.0,487.52,44,Male,UPI,6,4.0
+ORD1871,2024-11-21,Central,Electronics,Smartphone,1,24640.0,0.1,22176.0,1239.12,18,Male,UPI,4,3.0
+ORD1872,2024-11-22,West,Clothing,Jeans,5,1730.0,0.15000000000000002,7352.5,2049.21,50,Female,UPI,5,4.0
+ORD1873,2024-11-22,Central,Electronics,Smartphone,1,25150.0,0.05,23892.5,3357.19,18,Female,Cash on Delivery,4,4.0
+ORD1874,2024-11-22,South,Sports,Yoga Mat,1,770.0,0.1,693.0,175.06,48,Female,UPI,4,4.0
+ORD1875,2024-11-23,East,Electronics,Smartphone,2,25580.0,0.2,40928.0,2000.39,33,Female,UPI,5,3.0
+ORD1876,2024-11-23,North,Home & Kitchen,Bedsheet Set,2,1510.0,0.1,2718.0,592.74,36,Female,Net Banking,4,5.0
+ORD1877,2024-11-23,West,Home & Kitchen,Mixer Grinder,1,3080.0,0.25,2310.0,230.48,36,Male,Credit Card,6,4.0
+ORD1878,2024-11-23,Central,Sports,Football,1,830.0,0.1,747.0,140.32,49,Female,UPI,4,4.0
+ORD1879,2024-11-23,West,Sports,Cricket Bat,1,2150.0,0.2,1720.0,262.78,41,Female,Net Banking,4,3.0
+ORD1880,2024-11-24,Central,Clothing,Jacket,5,3640.0,0.25,13650.0,2996.48,19,Female,Credit Card,4,3.0
+ORD1881,2024-11-24,South,Electronics,Headphones,1,2940.0,0.15000000000000002,2499.0,-1.26,43,Female,Cash on Delivery,3,4.0
+ORD1882,2024-11-24,West,Books,Cookbook,4,610.0,0.05,2318.0,630.99,50,Male,Debit Card,3,4.0
+ORD1883,2024-11-24,North,Clothing,Sneakers,2,2960.0,0.05,5624.0,2098.05,34,Male,UPI,3,5.0
+ORD1884,2024-11-25,East,Home & Kitchen,Air Fryer,2,6020.0,0.15000000000000002,10234.0,1713.44,26,Female,Debit Card,7,3.0
+ORD1885,2024-11-25,North,Electronics,Smartphone,1,25760.0,0.2,20608.0,860.24,34,Male,Debit Card,3,3.0
+ORD1886,2024-11-26,North,Sports,Yoga Mat,1,830.0,0.2,664.0,87.57,52,Female,Credit Card,6,5.0
+ORD1887,2024-11-26,Central,Sports,Cricket Bat,1,2240.0,0.05,2128.0,513.54,20,Male,UPI,4,3.0
+ORD1888,2024-11-26,South,Home & Kitchen,Cookware Set,1,2510.0,0.15000000000000002,2133.5,344.04,23,Male,UPI,6,4.0
+ORD1889,2024-11-26,South,Books,Comic,1,250.0,0.15000000000000002,212.5,56.34,36,Male,Credit Card,4,3.0
+ORD1890,2024-11-27,North,Home & Kitchen,Bedsheet Set,1,1520.0,0.2,1216.0,132.79,23,Female,Credit Card,4,4.0
+ORD1891,2024-11-27,North,Electronics,Laptop,1,56920.0,0.1,51228.0,4262.72,43,Female,UPI,3,5.0
+ORD1892,2024-11-27,South,Books,Comic,3,260.0,0.05,741.0,223.5,26,Female,Net Banking,4,4.0
+ORD1893,2024-11-27,South,Electronics,Smartphone,2,24450.0,0.25,36675.0,-385.22,28,Female,Debit Card,3,4.0
+ORD1894,2024-11-27,West,Electronics,Smartphone,1,26470.0,0.15000000000000002,22499.5,382.41,18,Female,UPI,5,4.0
+ORD1895,2024-11-27,East,Home & Kitchen,Air Fryer,2,6000.0,0.05,11400.0,3016.05,39,Male,UPI,5,4.0
+ORD1896,2024-11-28,Central,Clothing,Sneakers,1,2730.0,0.1,2457.0,723.73,24,Male,Debit Card,6,3.0
+ORD1897,2024-11-28,North,Home & Kitchen,Air Fryer,1,5740.0,0.1,5166.0,1077.49,30,Female,Net Banking,5,3.0
+ORD1898,2024-11-28,North,Sports,Cricket Bat,2,2120.0,0.15000000000000002,3604.0,601.49,58,Female,UPI,2,5.0
+ORD1899,2024-11-28,North,Clothing,Jeans,5,1790.0,0.05,8502.5,2568.05,26,Female,Credit Card,4,4.0
+ORD1900,2024-11-28,West,Sports,Yoga Mat,2,830.0,0.1,1494.0,369.07,29,Male,Cash on Delivery,4,4.0
+ORD1901,2024-11-28,North,Sports,Cricket Bat,2,2230.0,0.1,4014.0,650.97,42,Male,UPI,4,4.0
+ORD1902,2024-11-29,North,Sports,Yoga Mat,1,770.0,0.1,693.0,140.2,29,Female,Cash on Delivery,3,5.0
+ORD1903,2024-11-29,South,Clothing,Jacket,4,3430.0,0.2,10976.0,2415.47,22,Male,UPI,6,5.0
+ORD1904,2024-11-30,East,Sports,Cricket Bat,2,2260.0,0.05,4294.0,952.78,25,Male,Credit Card,6,3.0
+ORD1905,2024-11-30,West,Sports,Dumbbell Set,1,2430.0,0.05,2308.5,617.94,31,Female,Net Banking,2,5.0
+ORD1906,2024-11-30,North,Electronics,Smartphone,1,24620.0,0.2,19696.0,96.74,26,Female,Debit Card,3,5.0
+ORD1907,2024-11-30,South,Clothing,Jacket,5,3450.0,0.05,16387.5,5127.54,25,Female,UPI,6,3.0
+ORD1908,2024-11-30,West,Home & Kitchen,Air Fryer,1,6210.0,0.05,5899.5,1351.04,23,Male,Credit Card,4,4.0
+ORD1909,2024-11-30,North,Clothing,Sneakers,1,2870.0,0.05,2726.5,960.13,32,Female,Cash on Delivery,5,4.0
+ORD1910,2024-12-01,South,Home & Kitchen,Cookware Set,2,2480.0,0.1,4464.0,771.24,45,Female,UPI,5,4.0
+ORD1911,2024-12-01,East,Electronics,Laptop,1,54310.0,0.0,54310.0,7748.66,24,Female,Cash on Delivery,4,4.0
+ORD1912,2024-12-01,Central,Books,Novel,2,360.0,0.05,684.0,182.81,40,Male,Credit Card,5,5.0
+ORD1913,2024-12-01,North,Sports,Yoga Mat,1,760.0,0.1,684.0,126.8,30,Female,Net Banking,5,4.0
+ORD1914,2024-12-02,South,Books,Novel,2,350.0,0.2,560.0,74.53,21,Male,UPI,4,3.0
+ORD1915,2024-12-03,South,Home & Kitchen,Air Fryer,2,5950.0,0.2,9520.0,1297.48,27,Male,Cash on Delivery,6,3.0
+ORD1916,2024-12-03,West,Books,Comic,3,260.0,0.0,780.0,203.75,48,Male,UPI,4,4.0
+ORD1917,2024-12-03,North,Clothing,Jacket,3,3250.0,0.0,9750.0,3295.8,18,Female,UPI,5,3.0
+ORD1918,2024-12-04,South,Clothing,Sneakers,1,2940.0,0.05,2793.0,1035.93,44,Female,Credit Card,3,5.0
+ORD1919,2024-12-04,West,Home & Kitchen,Cookware Set,1,2490.0,0.0,2490.0,679.22,32,Female,UPI,4,4.0
+ORD1920,2024-12-04,East,Books,Comic,5,250.0,0.15,1062.5,216.4,19,Male,Net Banking,7,4.0
+ORD1921,2024-12-04,North,Electronics,Smartphone,2,25040.0,0.2,40064.0,-963.31,45,Male,Credit Card,6,3.0
+ORD1922,2024-12-04,Central,Electronics,Laptop,1,53630.0,0.0,53630.0,5866.32,46,Female,Credit Card,4,2.0
+ORD1923,2024-12-05,East,Clothing,Sneakers,4,2880.0,0.05,10944.0,3660.06,32,Male,Credit Card,7,5.0
+ORD1924,2024-12-05,North,Home & Kitchen,Cookware Set,2,2490.0,0.0,4980.0,1207.54,18,Male,Debit Card,4,5.0
+ORD1925,2024-12-05,North,Sports,Yoga Mat,1,840.0,0.15,714.0,147.06,24,Male,UPI,5,4.0
+ORD1926,2024-12-06,West,Sports,Yoga Mat,2,850.0,0.15,1445.0,246.5,20,Female,UPI,2,5.0
+ORD1927,2024-12-06,West,Home & Kitchen,Air Fryer,2,6590.0,0.1,11862.0,2743.05,27,Male,UPI,2,5.0
+ORD1928,2024-12-06,West,Clothing,Jacket,2,3780.0,0.0,7560.0,2564.12,50,Male,Net Banking,3,3.0
+ORD1929,2024-12-06,South,Clothing,T-Shirt,4,700.0,0.0,2800.0,982.87,18,Male,Debit Card,3,4.0
+ORD1930,2024-12-07,North,Home & Kitchen,Bedsheet Set,1,1440.0,0.15,1224.0,200.17,21,Male,UPI,4,4.0
+ORD1931,2024-12-07,South,Electronics,Headphones,1,3020.0,0.2,2416.0,51.2,35,Male,UPI,5,4.0
+ORD1932,2024-12-07,North,Sports,Football,2,850.0,0.1,1530.0,303.4,28,Female,UPI,6,4.0
+ORD1933,2024-12-07,North,Home & Kitchen,Cookware Set,1,2460.0,0.0,2460.0,582.03,41,Female,UPI,4,5.0
+ORD1934,2024-12-07,South,Home & Kitchen,Bedsheet Set,2,1460.0,0.0,2920.0,672.12,30,Male,UPI,3,3.0
+ORD1935,2024-12-08,North,Sports,Yoga Mat,1,840.0,0.1,756.0,180.09,35,Female,UPI,5,3.0
+ORD1936,2024-12-08,Central,Home & Kitchen,Mixer Grinder,1,3420.0,0.15,2907.0,343.3,18,Male,Debit Card,4,3.0
+ORD1937,2024-12-09,North,Electronics,Smartphone,1,26230.0,0.15,22295.5,572.83,21,Male,Debit Card,4,4.0
+ORD1938,2024-12-10,West,Electronics,Laptop,1,59230.0,0.0,59230.0,8040.6,18,Male,Credit Card,3,3.0
+ORD1939,2024-12-10,South,Home & Kitchen,Air Fryer,1,6160.0,0.05,5852.0,1111.2,38,Female,UPI,3,4.0
+ORD1940,2024-12-10,Central,Clothing,Jeans,5,1780.0,0.0,8900.0,3081.34,39,Male,UPI,3,4.0
+ORD1941,2024-12-10,North,Books,Textbook,2,960.0,0.0,1920.0,508.52,63,Female,Credit Card,4,4.0
+ORD1942,2024-12-10,South,Clothing,Jeans,4,1750.0,0.0,7000.0,2548.0,28,Female,Credit Card,2,4.0
+ORD1943,2024-12-10,North,Clothing,Jacket,3,3510.0,0.15,8950.5,1971.33,18,Female,Debit Card,1,5.0
+ORD1944,2024-12-11,South,Books,Novel,1,350.0,0.1,315.0,84.8,25,Female,Net Banking,5,3.0
+ORD1945,2024-12-11,West,Sports,Dumbbell Set,2,2540.0,0.2,4064.0,629.54,18,Male,UPI,4,5.0
+ORD1946,2024-12-12,North,Clothing,Sneakers,5,3010.0,0.1,13545.0,3957.01,28,Female,Debit Card,4,4.0
+ORD1947,2024-12-12,North,Clothing,Sneakers,3,2550.0,0.05,7267.5,2274.01,53,Male,Cash on Delivery,2,3.0
+ORD1948,2024-12-14,West,Sports,Yoga Mat,2,780.0,0.0,1560.0,372.02,31,Female,Debit Card,4,2.0
+ORD1949,2024-12-14,Central,Electronics,Headphones,2,2860.0,0.0,5720.0,887.53,32,Male,Credit Card,4,3.0
+ORD1950,2024-12-14,Central,Clothing,T-Shirt,5,680.0,0.0,3400.0,1342.98,23,Male,UPI,4,4.0
+ORD1951,2024-12-15,South,Clothing,T-Shirt,3,670.0,0.1,1809.0,562.38,25,Male,Credit Card,3,3.0
+ORD1952,2024-12-15,Central,Books,Cookbook,2,550.0,0.15,935.0,183.65,34,Female,UPI,7,4.0
+ORD1953,2024-12-16,East,Books,Comic,5,250.0,0.1,1125.0,273.45,30,Female,Debit Card,4,4.0
+ORD1954,2024-12-16,North,Books,Novel,4,350.0,0.3,980.0,113.63,44,Female,Cash on Delivery,5,4.0
+ORD1955,2024-12-16,North,Electronics,Headphones,2,2920.0,0.2,4672.0,161.56,18,Male,UPI,4,4.0
+ORD1956,2024-12-16,South,Books,Novel,4,350.0,0.15,1190.0,290.84,41,Female,UPI,6,3.0
+ORD1957,2024-12-16,Central,Electronics,Laptop,2,50030.0,0.15,85051.0,662.95,39,Female,Debit Card,5,4.0
+ORD1958,2024-12-17,East,Home & Kitchen,Cookware Set,2,2430.0,0.05,4617.0,1132.72,39,Female,UPI,6,4.0
+ORD1959,2024-12-18,South,Books,Textbook,3,900.0,0.0,2700.0,727.66,33,Male,Net Banking,4,4.0
+ORD1960,2024-12-18,West,Home & Kitchen,Mixer Grinder,2,3210.0,0.0,6420.0,1723.63,20,Male,Debit Card,5,3.0
+ORD1961,2024-12-18,North,Home & Kitchen,Air Fryer,2,5850.0,0.0,11700.0,3107.19,36,Male,UPI,5,4.0
+ORD1962,2024-12-18,West,Clothing,T-Shirt,5,700.0,0.0,3500.0,1329.38,38,Male,Net Banking,5,5.0
+ORD1963,2024-12-18,North,Home & Kitchen,Mixer Grinder,2,3050.0,0.0,6100.0,1398.17,42,Female,Debit Card,4,4.0
+ORD1964,2024-12-18,North,Clothing,Sneakers,5,2790.0,0.0,13950.0,5815.67,18,Male,UPI,5,3.0
+ORD1965,2024-12-19,North,Books,Cookbook,2,610.0,0.2,976.0,180.88,38,Female,UPI,5,3.0
+ORD1966,2024-12-19,West,Electronics,Smartphone,1,24510.0,0.15,20833.5,452.35,42,Female,Cash on Delivery,5,3.0
+ORD1967,2024-12-19,South,Clothing,T-Shirt,1,730.0,0.15,620.5,138.22,38,Male,Cash on Delivery,4,4.0
+ORD1968,2024-12-20,Central,Electronics,Headphones,1,2790.0,0.0,2790.0,290.93,19,Male,UPI,6,5.0
+ORD1969,2024-12-21,East,Books,Comic,3,250.0,0.0,750.0,268.07,19,Male,Credit Card,5,4.0
+ORD1970,2024-12-21,Central,Books,Novel,1,360.0,0.0,360.0,115.27,28,Male,Cash on Delivery,5,4.0
+ORD1971,2024-12-21,South,Books,Cookbook,1,580.0,0.0,580.0,141.51,31,Male,Net Banking,3,4.0
+ORD1972,2024-12-22,West,Sports,Cricket Bat,2,2260.0,0.0,4520.0,1546.9,30,Female,Debit Card,3,3.0
+ORD1973,2024-12-22,West,Home & Kitchen,Cookware Set,2,2450.0,0.0,4900.0,1410.45,27,Male,UPI,5,5.0
+ORD1974,2024-12-23,North,Clothing,Sneakers,4,2750.0,0.05,10450.0,3048.65,45,Male,Debit Card,4,4.0
+ORD1975,2024-12-24,South,Clothing,Jeans,1,1860.0,0.05,1767.0,604.68,31,Female,UPI,1,4.0
+ORD1976,2024-12-25,East,Books,Cookbook,5,600.0,0.0,3000.0,1055.08,18,Female,Cash on Delivery,5,4.0
+ORD1977,2024-12-25,West,Sports,Yoga Mat,1,840.0,0.0,840.0,264.7,29,Female,UPI,4,4.0
+ORD1978,2024-12-25,South,Clothing,Jacket,3,3640.0,0.1,9828.0,2668.39,46,Female,UPI,2,5.0
+ORD1979,2024-12-25,West,Electronics,Smartphone,1,24170.0,0.05,22961.5,819.42,34,Male,UPI,3,4.0
+ORD1980,2024-12-25,North,Sports,Dumbbell Set,2,2490.0,0.3,3486.0,307.79,36,Female,Cash on Delivery,5,4.0
+ORD1981,2024-12-26,North,Clothing,T-Shirt,3,740.0,0.05,2109.0,728.45,36,Female,UPI,8,4.0
+ORD1982,2024-12-26,East,Clothing,Jacket,2,3460.0,0.0,6920.0,2538.35,49,Male,Credit Card,5,5.0
+ORD1983,2024-12-26,North,Clothing,Sneakers,5,2750.0,0.3,9625.0,1799.8,30,Male,Credit Card,5,5.0
+ORD1984,2024-12-26,South,Home & Kitchen,Cookware Set,2,2520.0,0.2,4032.0,785.67,22,Male,UPI,2,4.0
+ORD1985,2024-12-26,West,Electronics,Smartwatch,1,7980.0,0.15,6783.0,151.95,29,Female,Debit Card,2,4.0
+ORD1986,2024-12-27,South,Electronics,Headphones,1,3120.0,0.0,3120.0,372.95,19,Female,Credit Card,4,4.0
+ORD1987,2024-12-27,North,Books,Cookbook,5,650.0,0.15,2762.5,613.57,33,Male,Cash on Delivery,4,5.0
+ORD1988,2024-12-28,East,Electronics,Headphones,1,3170.0,0.0,3170.0,282.82,38,Male,UPI,2,4.0
+ORD1989,2024-12-28,Central,Books,Comic,4,250.0,0.0,1000.0,313.99,27,Female,Net Banking,8,4.0
+ORD1990,2024-12-28,West,Sports,Football,1,910.0,0.1,819.0,181.47,26,Female,Credit Card,2,4.0
+ORD1991,2024-12-29,North,Electronics,Smartwatch,2,8110.0,0.05,15409.0,1228.47,29,Male,UPI,2,4.0
+ORD1992,2024-12-29,North,Clothing,Jacket,1,3530.0,0.05,3353.5,916.34,22,Male,Debit Card,4,4.0
+ORD1993,2024-12-29,West,Books,Comic,3,260.0,0.05,741.0,191.04,29,Male,UPI,4,4.0
+ORD1994,2024-12-29,North,Books,Comic,3,240.0,0.2,576.0,127.63,20,Male,Debit Card,2,4.0
+ORD1995,2024-12-30,East,Books,Textbook,2,1000.0,0.15,1700.0,359.49,34,Male,UPI,5,2.0
+ORD1996,2024-12-30,West,Clothing,T-Shirt,1,680.0,0.0,680.0,216.56,32,Female,Debit Card,7,3.0
+ORD1997,2024-12-30,East,Electronics,Smartphone,2,24840.0,0.05,47196.0,4180.13,18,Female,Cash on Delivery,4,3.0
+ORD1998,2024-12-31,East,Clothing,T-Shirt,5,720.0,0.05,3420.0,1075.89,37,Male,UPI,8,3.0
+ORD1999,2024-12-31,East,Books,Textbook,2,960.0,0.05,1824.0,494.11,30,Female,Net Banking,9,4.0
+ORD2000,2024-12-31,North,Books,Novel,5,340.0,0.1,1530.0,311.52,18,Male,UPI,6,4.0
