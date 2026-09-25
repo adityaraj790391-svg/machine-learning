@@ -1,0 +1,13 @@
+Student_ID,Gender,Education_Level,Satisfaction,City,Course_Mode,Age,Study_Hours
+101,Male,School,Low,Delhi,Online,18,3
+102,Female,College,Medium,Mumbai,Offline,21,5
+103,Female,Postgraduate,High,Pune,Hybrid,24,7
+104,Male,College,Medium,Delhi,Online,22,6
+105,Female,School,Low,Bangalore,Offline,19,2
+106,Male,Postgraduate,High,Mumbai,Hybrid,26,8
+107,Female,College,Medium,Pune,Online,23,5
+108,Male,School,High,Delhi,Offline,20,4
+109,Female,Postgraduate,Low,Bangalore,Hybrid,25,9
+110,Male,College,Medium,Mumbai,Online,21,6
+111,Female,School,High,Pune,Offline,18,3
+112,Male,Postgraduate,Low,Delhi,Hybrid,27,10
