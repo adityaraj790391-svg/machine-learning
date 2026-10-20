@@ -4,3 +4,4 @@ import joblib
 
 model = joblib.load('KNN_heart.pkl')
 scaler = joblib.load('scaler.pkl')
+columns = joblib.load('columns.pkl')
