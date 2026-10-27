@@ -37,5 +37,5 @@ name = st.text_input('Enter your name')
 if name:
   st.write(f'Welcome, {name} ! You are ready')
 
-dob = st.datetime_input('Select your birth date')
+dob = st.date_input('Select your birth date')
 st.write(f'Your dob is {dob}' )
