@@ -33,4 +33,9 @@ max_skills = st.number_input('Max skills you can possess', min_value=1, max_valu
 st.write(f'Selected skills: {max_skills}')
 
 
-name 
+name = st.text_input('Enter your name')
+if name:
+  st.write(f'Welcome, {name} ! You are ready')
+
+dob = st.datetime_input('Select your birth date')
+st.write(f'Your dob is {dob}' )
