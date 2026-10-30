@@ -21,4 +21,7 @@ elif vote2:
   st.success('Your class is Sword Master')
 
 
+name = st.sidebar.text_input('Enter name')
+skill = st.sidebar.selectbox('Activating Divine Exclusive Skill', ['Revelation of the Worlds Creation', 'Saintess of a Fallen Nation', 'King of Tyranny'])
+
 
