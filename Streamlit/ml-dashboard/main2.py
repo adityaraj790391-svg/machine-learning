@@ -25,3 +25,13 @@ name = st.sidebar.text_input('Enter name')
 skill = st.sidebar.selectbox('Activating Divine Exclusive Skill', ['Revelation of the Worlds Creation', 'Saintess of a Fallen Nation', 'King of Tyranny'])
 
 
+with st.expander(''):
+  st.write("""
+  1. Boil water with tea leaves
+  2. Add milk and species
+  3. Serve hot
+  """)
+
+st.markdown('# WELCOME TO THE TOWER OF TRIALS')
+
+
