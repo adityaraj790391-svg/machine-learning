@@ -1,4 +1,5 @@
 import streamlit as st
+from datetime import date
 
 st.title('My Calculator')
 st.write('Perform Basic Mathematical Operations')
@@ -24,3 +25,27 @@ if st.button('Calculate'):
     result = num1 / num2
 
   st.success(f'Result is {result}')
+
+
+
+  # Calculating age based on user dob
+
+st.title("📅 Quick Age Calculator")
+
+dob = st.date_input(
+  'Select date of birth',
+  value = date(2000, 1, 1),
+  max_value = date.today(),
+)
+
+today = date.today()
+years = (
+  today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
+)
+
+
+st.metric(label = 'Calculated Age', value=f'{years} Years old')
+
+if dob.month == today.month and dob.day == today.day:
+  st.balloons()
+  st.success('❤️Happy Birthday')

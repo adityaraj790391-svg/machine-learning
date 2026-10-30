@@ -39,3 +39,5 @@ if name:
 
 dob = st.date_input('Select your birth date')
 st.write(f'Your dob is {dob}' )
+
+
