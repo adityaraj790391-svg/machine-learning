@@ -28,7 +28,7 @@ if st.button('Calculate'):
 
 
 
-  # Calculating age based on user dob
+# Calculating age based on user dob
 
 st.title("📅 Quick Age Calculator")
 
