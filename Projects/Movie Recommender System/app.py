@@ -1,8 +1,16 @@
 import streamlit as st
+import pickle
+import pandas as pd
+
+movies_dict = pickle.load(open('movies_dict.pkl', 'rb'))
+movies = pd.DataFrame(movies_dict)
 
 st.title("Movie Recommender System")
 
-option = st.selectbox(
-    "How would you like to be contacted?",
-    ("Email", "Home phone", "Mobile phone"),
+selected_movie = st.selectbox(
+    "Select a movie:",
+    movies['title'].values
 )
+
+if st.button('Recommend'):
+    st.write(f"Recommendations for {selected_movie} will be displayed here.")
