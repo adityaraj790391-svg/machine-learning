@@ -3,7 +3,9 @@ import pickle
 import pandas as pd
 import requests
 
-API_KEY = "a26fe5113adce9c995eacd30b2252226Y"
+# API_KEY = "a26fe5113adce9c995eacd30b2252226Y" 
+
+API_KEY = "9a6209516amshedd97366e7f50fcp15b870jsn5c18fb603de0"
 
 def fetch_poster(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=en-US"
@@ -16,7 +18,7 @@ def fetch_poster(movie_id):
         poster_path = data.get('poster_path')
 
         if poster_path:
-            return "https://image.tmdb.org/t/p/w500/" + poster_path
+            return "https://image.tmdb.org/t/p/w500" + poster_path
 
     except requests.exceptions.RequestException:
         pass
