@@ -37,7 +37,7 @@ def recommend(movie):
         list(enumerate(distances)),
         reverse=True,
         key=lambda x: x[1]
-    )[1:11]
+    )[1:21]
 
     names = []
     posters = []
@@ -50,15 +50,15 @@ def recommend(movie):
     return names, posters
 
 
-st.title("Movie Recommender System")
+st.title(" Movie Recommender System ")
 
 selected_movie = st.selectbox("Select a movie:", movies['title'].values)
 
 if st.button("Recommend"):
     names, posters = recommend(selected_movie)
 
-    for start in range(0, len(names), 5):
-        cols = st.columns(5)
+    for start in range(0, len(names), 4):
+        cols = st.columns(4)
 
         for col, name, poster in zip(
             cols, names[start:start+5], posters[start:start+5]
