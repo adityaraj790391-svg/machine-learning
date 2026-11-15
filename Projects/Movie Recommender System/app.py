@@ -147,7 +147,7 @@ def download_similarity_file():
         "Downloading large recommendation model (happens only once)..."
     ):
       # Paste the direct download link from your GitHub Release here:
-      url = "https://github.com/adityaraj790391-svg/machine-learning/releases/tag/v1.0"
+      url = "https://github.com/adityaraj790391-svg/machine-learning/releases/download/v1.0/similarity.pkl"
 
       response = requests.get(url, stream=True)
       response.raise_for_status()
