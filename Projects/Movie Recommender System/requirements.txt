@@ -1,0 +1,5 @@
+streamlit
+pandas
+requests
+
+uv run streamlit run app.py
